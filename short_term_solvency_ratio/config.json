@@ -1,0 +1,14 @@
+{
+    "data_path": "../data/",
+    "exchange_list": ["sz","sh"],
+    "outputsize_list": ["full","compact"],
+    "fi_list":["INCOME_STATEMENT","BALANCE_SHEET"],
+    "fi_list_yfinance":["income_stmt","quarterly_income_stmt","balance_sheet","quarterly_balance_sheet","cashflow","quarterly_cashflow"],
+    "broker_picked_stock_path":"../data/eastmoney_parser/grpStockReportSummary/stock.xlsx"
+
+
+
+
+}
+
+
