@@ -1,0 +1,96 @@
+---------
+2023-08-12 00:06:17.958152
+Caught exception in __main__ during loop of 834950:
+[Errno 2] No such file or directory: '../data/short_term_solvency_ratio/grpFiData/tbl834950quarterly_balance_sheet.csv'
+---------
+2023-08-12 00:06:17.958152
+Caught exception in __main__ during loop of 837748:
+[Errno 2] No such file or directory: '../data/short_term_solvency_ratio/grpFiData/tbl837748quarterly_balance_sheet.csv'
+---------
+2023-08-12 00:07:22.055230
+Caught exception in __main__ during loop of 832982:
+[Errno 2] No such file or directory: '../data/short_term_solvency_ratio/grpFiData/tbl832982quarterly_balance_sheet.csv'
+---------
+2023-08-12 00:08:20.360344
+Caught exception in __main__ during loop of 834950:
+[Errno 2] No such file or directory: '../data/short_term_solvency_ratio/grpFiData/tbl834950quarterly_balance_sheet.csv'
+---------
+2023-08-12 00:08:20.360344
+Caught exception in __main__ during loop of 837748:
+[Errno 2] No such file or directory: '../data/short_term_solvency_ratio/grpFiData/tbl837748quarterly_balance_sheet.csv'
+---------
+2023-08-12 00:09:24.212639
+Caught exception in __main__ during loop of 832982:
+[Errno 2] No such file or directory: '../data/short_term_solvency_ratio/grpFiData/tbl832982quarterly_balance_sheet.csv'
+---------
+2023-08-12 00:12:21.694933
+Caught exception in __main__ during loop of 830779:
+[Errno 2] No such file or directory: '../data/short_term_solvency_ratio/grpFiData/tbl830779quarterly_balance_sheet.csv'
+---------
+2023-08-12 00:12:26.736116
+Caught exception in __main__ during loop of 836504:
+[Errno 2] No such file or directory: '../data/short_term_solvency_ratio/grpFiData/tbl836504quarterly_balance_sheet.csv'
+---------
+2023-08-12 00:12:50.331791
+Caught exception in __main__ during loop of 871694:
+[Errno 2] No such file or directory: '../data/short_term_solvency_ratio/grpFiData/tbl871694quarterly_balance_sheet.csv'
+---------
+2023-08-12 00:16:00.378501
+Caught exception in __main__ during loop of 603275:
+index 1 is out of bounds for axis 0 with size 1
+---------
+2023-08-12 00:16:02.803791
+Caught exception in __main__ during loop of 301528:
+index 1 is out of bounds for axis 0 with size 1
+---------
+2023-08-12 00:18:31.127227
+Caught exception in __main__ during loop of 872953:
+[Errno 2] No such file or directory: '../data/short_term_solvency_ratio/grpFiData/tbl872953quarterly_balance_sheet.csv'
+---------
+2023-08-12 00:19:08.465015
+Caught exception in __main__ during loop of 603275:
+index 1 is out of bounds for axis 0 with size 1
+---------
+2023-08-12 00:19:35.597276
+Caught exception in __main__ during loop of 832982:
+[Errno 2] No such file or directory: '../data/short_term_solvency_ratio/grpFiData/tbl832982quarterly_balance_sheet.csv'
+---------
+2023-08-12 00:20:37.628850
+Caught exception in __main__ during loop of 872953:
+[Errno 2] No such file or directory: '../data/short_term_solvency_ratio/grpFiData/tbl872953quarterly_balance_sheet.csv'
+---------
+2023-08-12 00:21:14.962651
+Caught exception in __main__ during loop of 603275:
+index 1 is out of bounds for axis 0 with size 1
+---------
+2023-08-12 00:21:41.847494
+Caught exception in __main__ during loop of 832982:
+[Errno 2] No such file or directory: '../data/short_term_solvency_ratio/grpFiData/tbl832982quarterly_balance_sheet.csv'
+---------
+2023-08-12 00:25:32.985825
+Caught exception in __main__ during loop of 833394:
+[Errno 2] No such file or directory: '../data/short_term_solvency_ratio/grpFiData/tbl833394quarterly_balance_sheet.csv'
+---------
+2023-08-12 00:26:12.090928
+Caught exception in __main__ during loop of 601865:
+'2022-12-31 00:00:00'
+---------
+2023-08-12 00:26:17.444111
+Caught exception in __main__ during loop of 832982:
+[Errno 2] No such file or directory: '../data/short_term_solvency_ratio/grpFiData/tbl832982quarterly_balance_sheet.csv'
+---------
+2023-08-12 00:26:17.445111
+Caught exception in __main__ during loop of 871634:
+[Errno 2] No such file or directory: '../data/short_term_solvency_ratio/grpFiData/tbl871634quarterly_balance_sheet.csv'
+---------
+2023-08-12 00:26:17.446108
+Caught exception in __main__ during loop of 836270:
+[Errno 2] No such file or directory: '../data/short_term_solvency_ratio/grpFiData/tbl836270quarterly_balance_sheet.csv'
+---------
+2023-08-12 00:26:17.446108
+Caught exception in __main__ during loop of 871642:
+[Errno 2] No such file or directory: '../data/short_term_solvency_ratio/grpFiData/tbl871642quarterly_balance_sheet.csv'
+---------
+2023-08-12 00:27:00.059441
+Caught exception in __main__ during loop of 688548:
+index 1 is out of bounds for axis 0 with size 1

@@ -42,8 +42,8 @@ def exceptionLog(pkg_path,filename,func_name,error,loop_item): #230303update
     return print("Caught exception in "+func_name+" during loop of "+loop_item+":", str(error))
 
 
-with open('./'+pkg_path+'alphavantageapi.json') as f:
-    alpha_api = json.load(f)['alpha_api']
+#with open('./'+pkg_path+'alphavantageapi.json') as f:
+#    alpha_api = json.load(f)['alpha_api']
 
 
 def listingSuffixForParsing(exchange,symbol):
@@ -87,7 +87,6 @@ def savingDfToCsv(path_head,exchange,path_tail,df_name,data_path,mode='w',st='',
         df_name.replace('\xa0', ' ', regex=True, inplace=True) #Replace characters that cannot be encoded by GBK.
         df_name.replace("", pd.NA, inplace=True)
         df_name.dropna(how='all', inplace=True) #Drop all nan rows.
-        print(df_name)
         df_name.to_csv(s,index=False,encoding='GBK')
 
 
