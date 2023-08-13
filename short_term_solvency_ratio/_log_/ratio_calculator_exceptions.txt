@@ -1,0 +1,96 @@
+---------
+2023-08-13 09:47:29.842892
+Caught exception in calculate during loop of 834950:
+[Errno 2] No such file or directory: '../data/short_term_solvency_ratio/grpFiData/tbl834950quarterly_balance_sheet.csv'
+---------
+2023-08-13 09:47:29.843832
+Caught exception in calculate during loop of 837748:
+[Errno 2] No such file or directory: '../data/short_term_solvency_ratio/grpFiData/tbl837748quarterly_balance_sheet.csv'
+---------
+2023-08-13 09:47:29.911758
+Caught exception in calculate during loop of 832982:
+[Errno 2] No such file or directory: '../data/short_term_solvency_ratio/grpFiData/tbl832982quarterly_balance_sheet.csv'
+---------
+2023-08-13 09:47:29.962754
+Caught exception in calculate during loop of 834950:
+[Errno 2] No such file or directory: '../data/short_term_solvency_ratio/grpFiData/tbl834950quarterly_balance_sheet.csv'
+---------
+2023-08-13 09:47:29.963757
+Caught exception in calculate during loop of 837748:
+[Errno 2] No such file or directory: '../data/short_term_solvency_ratio/grpFiData/tbl837748quarterly_balance_sheet.csv'
+---------
+2023-08-13 09:47:30.015754
+Caught exception in calculate during loop of 832982:
+[Errno 2] No such file or directory: '../data/short_term_solvency_ratio/grpFiData/tbl832982quarterly_balance_sheet.csv'
+---------
+2023-08-13 09:47:30.194959
+Caught exception in calculate during loop of 830779:
+[Errno 2] No such file or directory: '../data/short_term_solvency_ratio/grpFiData/tbl830779quarterly_balance_sheet.csv'
+---------
+2023-08-13 09:47:30.200738
+Caught exception in calculate during loop of 836504:
+[Errno 2] No such file or directory: '../data/short_term_solvency_ratio/grpFiData/tbl836504quarterly_balance_sheet.csv'
+---------
+2023-08-13 09:47:30.223478
+Caught exception in calculate during loop of 871694:
+[Errno 2] No such file or directory: '../data/short_term_solvency_ratio/grpFiData/tbl871694quarterly_balance_sheet.csv'
+---------
+2023-08-13 09:47:30.403073
+Caught exception in calculate during loop of 603275:
+index 1 is out of bounds for axis 0 with size 1
+---------
+2023-08-13 09:47:30.404922
+Caught exception in calculate during loop of 301528:
+index 1 is out of bounds for axis 0 with size 1
+---------
+2023-08-13 09:47:30.547690
+Caught exception in calculate during loop of 872953:
+[Errno 2] No such file or directory: '../data/short_term_solvency_ratio/grpFiData/tbl872953quarterly_balance_sheet.csv'
+---------
+2023-08-13 09:47:30.578993
+Caught exception in calculate during loop of 603275:
+index 1 is out of bounds for axis 0 with size 1
+---------
+2023-08-13 09:47:30.609996
+Caught exception in calculate during loop of 832982:
+[Errno 2] No such file or directory: '../data/short_term_solvency_ratio/grpFiData/tbl832982quarterly_balance_sheet.csv'
+---------
+2023-08-13 09:47:30.668423
+Caught exception in calculate during loop of 872953:
+[Errno 2] No such file or directory: '../data/short_term_solvency_ratio/grpFiData/tbl872953quarterly_balance_sheet.csv'
+---------
+2023-08-13 09:47:30.702422
+Caught exception in calculate during loop of 603275:
+index 1 is out of bounds for axis 0 with size 1
+---------
+2023-08-13 09:47:30.725423
+Caught exception in calculate during loop of 832982:
+[Errno 2] No such file or directory: '../data/short_term_solvency_ratio/grpFiData/tbl832982quarterly_balance_sheet.csv'
+---------
+2023-08-13 09:47:30.929523
+Caught exception in calculate during loop of 833394:
+[Errno 2] No such file or directory: '../data/short_term_solvency_ratio/grpFiData/tbl833394quarterly_balance_sheet.csv'
+---------
+2023-08-13 09:47:30.974404
+Caught exception in calculate during loop of 601865:
+'2022-12-31 00:00:00'
+---------
+2023-08-13 09:47:30.981402
+Caught exception in calculate during loop of 832982:
+[Errno 2] No such file or directory: '../data/short_term_solvency_ratio/grpFiData/tbl832982quarterly_balance_sheet.csv'
+---------
+2023-08-13 09:47:30.982401
+Caught exception in calculate during loop of 871634:
+[Errno 2] No such file or directory: '../data/short_term_solvency_ratio/grpFiData/tbl871634quarterly_balance_sheet.csv'
+---------
+2023-08-13 09:47:30.982401
+Caught exception in calculate during loop of 836270:
+[Errno 2] No such file or directory: '../data/short_term_solvency_ratio/grpFiData/tbl836270quarterly_balance_sheet.csv'
+---------
+2023-08-13 09:47:30.983399
+Caught exception in calculate during loop of 871642:
+[Errno 2] No such file or directory: '../data/short_term_solvency_ratio/grpFiData/tbl871642quarterly_balance_sheet.csv'
+---------
+2023-08-13 09:47:31.033870
+Caught exception in calculate during loop of 688548:
+index 1 is out of bounds for axis 0 with size 1

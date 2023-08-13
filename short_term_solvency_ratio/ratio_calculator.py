@@ -115,14 +115,14 @@ class ShortTermSolvencyCalculator:
 
         for st in symbol_picked:
             try:
-                self.fiDataParsing(st=st)
+                #self.fiDataParsing(st=st)
                 short_term_solvency_ratio = self.calcShortTermSolvencyRatioYFinance(st=st, report_type='quarterly')
                 if short_term_solvency_ratio != None:
                     # Assign the calculated ratio to the new column for the rows where the symbol matches st
                     broker_picked_stock_df.loc[broker_picked_stock_df[st_column] == st, 'short_term_solvency_ratio'] = short_term_solvency_ratio
 
             except Exception as e:
-                utils.exceptionLog(self.config['pkg_path'], self.config['filename'], func_name=ShortTermSolvencyCalculator.calculate.__name__, error=e, loop_item=st)
+                utils.exceptionLog(pkg_path, filename, func_name=ShortTermSolvencyCalculator.calculate.__name__, error=e, loop_item=st)
                 continue
 
         utils.savingDfToCsv(path_head='tbl', exchange='', path_tail='.csv', df_name=broker_picked_stock_df, data_path=self.config['data_path'], mode='w', path_add='StockPickedWithSolvencyR', suffix=utils.timestamp) # If generating date is different, will save to a new file.
