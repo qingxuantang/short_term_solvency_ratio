@@ -1,4 +1,3 @@
-# -*- coding: UTF-8 -*-
 
 from importlib import reload
 from short_term_solvency_ratio import ratio_calculator
