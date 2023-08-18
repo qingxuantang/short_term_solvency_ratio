@@ -74,7 +74,7 @@ def listingSuffixForParsing(exchange,symbol):
         elif symbol[0] == '6' or symbol[0] == '9':
             e_alphaVantage = '.SHH'
             e_yahooFinance = '.SS'
-        elif symbol[0] == '8': # Beijing Stock Exchange
+        elif symbol[0] == '8' or symbol[0] == '4': # Beijing Stock Exchange
             e_alphaVantage = '' # Leave blank for the moment
             e_yahooFinance = ''    
 

@@ -5302,3 +5302,5295 @@ Caught exception in calculate during loop of 873593:
 2023-08-15 11:10:30.965584
 Caught exception in calculate during loop of 688548:
 index 1 is out of bounds for axis 0 with size 1
+---------
+2023-08-18 19:46:03.611809
+Caught exception in calculate during loop of 601998:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:03.615596
+Caught exception in calculate during loop of 300083:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:03.615596
+Caught exception in calculate during loop of 872953:
+[Errno 2] No such file or directory: '../data/short_term_solvency_ratio/grpFiData/tbl872953quarterly_balance_sheet.csv'
+---------
+2023-08-18 19:46:03.617659
+Caught exception in calculate during loop of 000915:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:03.620275
+Caught exception in calculate during loop of 300768:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:03.623261
+Caught exception in calculate during loop of 601818:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:03.625271
+Caught exception in calculate during loop of 688403:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:03.627277
+Caught exception in calculate during loop of 002027:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:03.630261
+Caught exception in calculate during loop of 603773:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:03.633271
+Caught exception in calculate during loop of 000983:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:03.633271
+Caught exception in calculate during loop of 831768:
+[Errno 2] No such file or directory: '../data/short_term_solvency_ratio/grpFiData/tbl831768quarterly_balance_sheet.csv'
+---------
+2023-08-18 19:46:03.635571
+Caught exception in calculate during loop of 300653:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:03.638722
+Caught exception in calculate during loop of 603380:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:03.641633
+Caught exception in calculate during loop of 603601:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:03.644623
+Caught exception in calculate during loop of 002891:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:03.648642
+Caught exception in calculate during loop of 603057:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:03.652640
+Caught exception in calculate during loop of 300130:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:03.655624
+Caught exception in calculate during loop of 688628:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:03.659624
+Caught exception in calculate during loop of 603444:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:03.663642
+Caught exception in calculate during loop of 300963:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:03.667624
+Caught exception in calculate during loop of 600970:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:03.670622
+Caught exception in calculate during loop of 600063:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:03.674741
+Caught exception in calculate during loop of 600023:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:03.678622
+Caught exception in calculate during loop of 002138:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:03.682623
+Caught exception in calculate during loop of 688212:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:03.686622
+Caught exception in calculate during loop of 301108:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:03.691626
+Caught exception in calculate during loop of 600941:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:03.695627
+Caught exception in calculate during loop of 688303:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:03.698624
+Caught exception in calculate during loop of 002860:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:03.702624
+Caught exception in calculate during loop of 605090:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:03.706637
+Caught exception in calculate during loop of 688066:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:03.711636
+Caught exception in calculate during loop of 600200:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:03.714636
+Caught exception in calculate during loop of 300487:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:03.717637
+Caught exception in calculate during loop of 000768:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:03.722150
+Caught exception in calculate during loop of 002847:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:03.726269
+Caught exception in calculate during loop of 688581:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:03.730148
+Caught exception in calculate during loop of 000963:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:03.733149
+Caught exception in calculate during loop of 688314:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:03.737148
+Caught exception in calculate during loop of 600888:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:03.741149
+Caught exception in calculate during loop of 603127:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:03.745148
+Caught exception in calculate during loop of 603518:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:03.748150
+Caught exception in calculate during loop of 300048:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:03.751147
+Caught exception in calculate during loop of 600720:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:03.754152
+Caught exception in calculate during loop of 002353:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:03.759169
+Caught exception in calculate during loop of 002623:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:03.762166
+Caught exception in calculate during loop of 002938:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:03.765176
+Caught exception in calculate during loop of 002139:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:03.769149
+Caught exception in calculate during loop of 688391:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:03.774156
+Caught exception in calculate during loop of 300638:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:03.778206
+Caught exception in calculate during loop of 688077:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:03.781165
+Caught exception in calculate during loop of 300751:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:03.784150
+Caught exception in calculate during loop of 300631:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:03.785150
+Caught exception in calculate during loop of 430476:
+[Errno 2] No such file or directory: '../data/short_term_solvency_ratio/grpFiData/tbl430476quarterly_balance_sheet.csv'
+---------
+2023-08-18 19:46:03.788148
+Caught exception in calculate during loop of 688378:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:03.792167
+Caught exception in calculate during loop of 002465:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:03.795165
+Caught exception in calculate during loop of 603392:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:03.798165
+Caught exception in calculate during loop of 000683:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:03.803149
+Caught exception in calculate during loop of 300782:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:03.805155
+Caught exception in calculate during loop of 601828:
+'2022-12-31 00:00:00'
+---------
+2023-08-18 19:46:03.809174
+Caught exception in calculate during loop of 000729:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:03.812178
+Caught exception in calculate during loop of 601816:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:03.815172
+Caught exception in calculate during loop of 603259:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:03.818178
+Caught exception in calculate during loop of 600801:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:03.822245
+Caught exception in calculate during loop of 001979:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:03.826255
+Caught exception in calculate during loop of 600195:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:03.828255
+Caught exception in calculate during loop of 600085:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:03.831255
+Caught exception in calculate during loop of 601007:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:03.834238
+Caught exception in calculate during loop of 688475:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:03.838238
+Caught exception in calculate during loop of 300444:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:03.841237
+Caught exception in calculate during loop of 600132:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:03.844255
+Caught exception in calculate during loop of 000960:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:03.847255
+Caught exception in calculate during loop of 600660:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:03.850238
+Caught exception in calculate during loop of 300572:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:03.853256
+Caught exception in calculate during loop of 600963:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:03.857240
+Caught exception in calculate during loop of 300183:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:03.860238
+Caught exception in calculate during loop of 600933:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:03.863343
+Caught exception in calculate during loop of 300510:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:03.866237
+Caught exception in calculate during loop of 000682:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:03.869239
+Caught exception in calculate during loop of 300792:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:03.873258
+Caught exception in calculate during loop of 603606:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:03.877254
+Caught exception in calculate during loop of 301363:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:03.879256
+Caught exception in calculate during loop of 603883:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:03.883238
+Caught exception in calculate during loop of 603288:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:03.886239
+Caught exception in calculate during loop of 688201:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:03.890239
+Caught exception in calculate during loop of 301080:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:03.894286
+Caught exception in calculate during loop of 002597:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:03.897259
+Caught exception in calculate during loop of 603799:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:03.900238
+Caught exception in calculate during loop of 300188:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:03.904239
+Caught exception in calculate during loop of 688249:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:03.907264
+Caught exception in calculate during loop of 603993:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:03.910263
+Caught exception in calculate during loop of 600066:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:03.913263
+Caught exception in calculate during loop of 002920:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:03.915244
+Caught exception in calculate during loop of 301525:
+index 1 is out of bounds for axis 0 with size 1
+---------
+2023-08-18 19:46:03.919245
+Caught exception in calculate during loop of 603613:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:03.922764
+Caught exception in calculate during loop of 688117:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:03.925869
+Caught exception in calculate during loop of 002812:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:03.928864
+Caught exception in calculate during loop of 688026:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:03.931779
+Caught exception in calculate during loop of 600482:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:03.934782
+Caught exception in calculate during loop of 603908:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:03.937766
+Caught exception in calculate during loop of 605060:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:03.941781
+Caught exception in calculate during loop of 600266:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:03.944780
+Caught exception in calculate during loop of 002271:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:03.947764
+Caught exception in calculate during loop of 301193:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:03.950764
+Caught exception in calculate during loop of 300999:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:03.953762
+Caught exception in calculate during loop of 300855:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:03.957781
+Caught exception in calculate during loop of 688121:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:03.960779
+Caught exception in calculate during loop of 002312:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:03.962780
+Caught exception in calculate during loop of 688582:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:03.965781
+Caught exception in calculate during loop of 000651:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:03.968764
+Caught exception in calculate during loop of 600861:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:03.972785
+Caught exception in calculate during loop of 300059:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:03.975781
+Caught exception in calculate during loop of 600987:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:03.978782
+Caught exception in calculate during loop of 688047:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:03.981778
+Caught exception in calculate during loop of 002166:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:03.983765
+Caught exception in calculate during loop of 002698:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:03.987762
+Caught exception in calculate during loop of 000998:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:03.990782
+Caught exception in calculate during loop of 603507:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:03.994763
+Caught exception in calculate during loop of 600392:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:03.997703
+Caught exception in calculate during loop of 300827:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.001698
+Caught exception in calculate during loop of 688536:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.004695
+Caught exception in calculate during loop of 600566:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.008715
+Caught exception in calculate during loop of 603345:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.011713
+Caught exception in calculate during loop of 688388:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.014712
+Caught exception in calculate during loop of 001205:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.017716
+Caught exception in calculate during loop of 688078:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.021237
+Caught exception in calculate during loop of 601888:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.024231
+Caught exception in calculate during loop of 002083:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.027249
+Caught exception in calculate during loop of 300666:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.030249
+Caught exception in calculate during loop of 300881:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.033232
+Caught exception in calculate during loop of 688073:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.036249
+Caught exception in calculate during loop of 603185:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.040236
+Caught exception in calculate during loop of 600312:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.043249
+Caught exception in calculate during loop of 603610:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.046249
+Caught exception in calculate during loop of 688318:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.048588
+Caught exception in calculate during loop of 600563:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.051586
+Caught exception in calculate during loop of 300664:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.052483
+Caught exception in calculate during loop of 833394:
+[Errno 2] No such file or directory: '../data/short_term_solvency_ratio/grpFiData/tbl833394quarterly_balance_sheet.csv'
+---------
+2023-08-18 19:46:04.055479
+Caught exception in calculate during loop of 603138:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.059587
+Caught exception in calculate during loop of 605020:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.062574
+Caught exception in calculate during loop of 688472:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.064576
+Caught exception in calculate during loop of 300014:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.067519
+Caught exception in calculate during loop of 600850:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.071482
+Caught exception in calculate during loop of 000999:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.075501
+Caught exception in calculate during loop of 600329:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.078495
+Caught exception in calculate during loop of 603018:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.081497
+Caught exception in calculate during loop of 000661:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.083480
+Caught exception in calculate during loop of 601728:
+'2022-12-31 00:00:00'
+---------
+2023-08-18 19:46:04.086495
+Caught exception in calculate during loop of 688609:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.090500
+Caught exception in calculate during loop of 002821:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.093495
+Caught exception in calculate during loop of 603056:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.096497
+Caught exception in calculate during loop of 002615:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.099478
+Caught exception in calculate during loop of 688088:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.102497
+Caught exception in calculate during loop of 688981:
+index 0 is out of bounds for axis 0 with size 0
+---------
+2023-08-18 19:46:04.105495
+Caught exception in calculate during loop of 601339:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.109497
+Caught exception in calculate during loop of 688570:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.112594
+Caught exception in calculate during loop of 000895:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.115597
+Caught exception in calculate during loop of 301220:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.118499
+Caught exception in calculate during loop of 603118:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.121927
+Caught exception in calculate during loop of 688271:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.126544
+Caught exception in calculate during loop of 601166:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.128543
+Caught exception in calculate during loop of 300232:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.131775
+Caught exception in calculate during loop of 603825:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.134783
+Caught exception in calculate during loop of 300896:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.137679
+Caught exception in calculate during loop of 000408:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.141797
+Caught exception in calculate during loop of 603866:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.144776
+Caught exception in calculate during loop of 600976:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.146781
+Caught exception in calculate during loop of 300182:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.147778
+Caught exception in calculate during loop of 870726:
+[Errno 2] No such file or directory: '../data/short_term_solvency_ratio/grpFiData/tbl870726quarterly_balance_sheet.csv'
+---------
+2023-08-18 19:46:04.150675
+Caught exception in calculate during loop of 600956:
+'2022-12-31 00:00:00'
+---------
+2023-08-18 19:46:04.153728
+Caught exception in calculate during loop of 688279:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.157786
+Caught exception in calculate during loop of 002643:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.160775
+Caught exception in calculate during loop of 301221:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.162770
+Caught exception in calculate during loop of 603918:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.165691
+Caught exception in calculate during loop of 600794:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.170690
+Caught exception in calculate during loop of 688114:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.173674
+Caught exception in calculate during loop of 301190:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.177459
+Caught exception in calculate during loop of 603633:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.180453
+Caught exception in calculate during loop of 000931:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.183357
+Caught exception in calculate during loop of 605099:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.186357
+Caught exception in calculate during loop of 600675:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.189463
+Caught exception in calculate during loop of 688120:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.193456
+Caught exception in calculate during loop of 300887:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.195458
+Caught exception in calculate during loop of 600515:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.198370
+Caught exception in calculate during loop of 002749:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.201357
+Caught exception in calculate during loop of 301317:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.204360
+Caught exception in calculate during loop of 603916:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.208385
+Caught exception in calculate during loop of 688310:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.211384
+Caught exception in calculate during loop of 603186:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.214390
+Caught exception in calculate during loop of 600502:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.217370
+Caught exception in calculate during loop of 688156:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.220927
+Caught exception in calculate during loop of 301257:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.223932
+Caught exception in calculate during loop of 000035:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.226931
+Caught exception in calculate during loop of 601107:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.229940
+Caught exception in calculate during loop of 688065:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.232913
+Caught exception in calculate during loop of 000552:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.235913
+Caught exception in calculate during loop of 002916:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.239916
+Caught exception in calculate during loop of 688203:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.242846
+Caught exception in calculate during loop of 603489:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.245827
+Caught exception in calculate during loop of 688733:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.248840
+Caught exception in calculate during loop of 000989:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.251826
+Caught exception in calculate during loop of 300129:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.254820
+Caught exception in calculate during loop of 600438:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.258839
+Caught exception in calculate during loop of 300354:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.261839
+Caught exception in calculate during loop of 000516:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.264146
+Caught exception in calculate during loop of 300181:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.266041
+Caught exception in calculate during loop of 688779:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.269148
+Caught exception in calculate during loop of 603558:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.275044
+Caught exception in calculate during loop of 300349:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.289044
+Caught exception in calculate during loop of 300580:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.300045
+Caught exception in calculate during loop of 688398:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.306050
+Caught exception in calculate during loop of 300421:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.312053
+Caught exception in calculate during loop of 603800:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.317049
+Caught exception in calculate during loop of 688433:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.322566
+Caught exception in calculate during loop of 001207:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.326687
+Caught exception in calculate during loop of 002414:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.330566
+Caught exception in calculate during loop of 605111:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.333564
+Caught exception in calculate during loop of 601233:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.336563
+Caught exception in calculate during loop of 688598:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.341568
+Caught exception in calculate during loop of 000002:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.344678
+Caught exception in calculate during loop of 300302:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.346664
+Caught exception in calculate during loop of 002859:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.349566
+Caught exception in calculate during loop of 300624:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.353567
+Caught exception in calculate during loop of 002558:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.357685
+Caught exception in calculate during loop of 001283:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.360674
+Caught exception in calculate during loop of 300595:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.363687
+Caught exception in calculate during loop of 300857:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.366567
+Caught exception in calculate during loop of 603063:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.370566
+Caught exception in calculate during loop of 000423:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.374685
+Caught exception in calculate during loop of 002886:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.378584
+Caught exception in calculate during loop of 002801:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.380582
+Caught exception in calculate during loop of 600746:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.384566
+Caught exception in calculate during loop of 003022:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.386565
+Caught exception in calculate during loop of 301528:
+index 1 is out of bounds for axis 0 with size 1
+---------
+2023-08-18 19:46:04.390566
+Caught exception in calculate during loop of 300276:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.393564
+Caught exception in calculate during loop of 601333:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.396563
+Caught exception in calculate during loop of 603170:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.399565
+Caught exception in calculate during loop of 002254:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.403566
+Caught exception in calculate during loop of 002129:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.406611
+Caught exception in calculate during loop of 601318:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.410606
+Caught exception in calculate during loop of 605168:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.412607
+Caught exception in calculate during loop of 300274:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.415607
+Caught exception in calculate during loop of 600332:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.418588
+Caught exception in calculate during loop of 002549:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.422120
+Caught exception in calculate during loop of 688503:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.426117
+Caught exception in calculate during loop of 603279:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.429118
+Caught exception in calculate during loop of 603711:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.431118
+Caught exception in calculate during loop of 000933:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.435120
+Caught exception in calculate during loop of 601808:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.438100
+Caught exception in calculate during loop of 601619:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.442118
+Caught exception in calculate during loop of 300979:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.445117
+Caught exception in calculate during loop of 603719:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.447120
+Caught exception in calculate during loop of 300986:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.450101
+Caught exception in calculate during loop of 000519:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.453118
+Caught exception in calculate during loop of 001914:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.457104
+Caught exception in calculate during loop of 688385:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.460118
+Caught exception in calculate during loop of 301004:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.462117
+Caught exception in calculate during loop of 688409:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.465120
+Caught exception in calculate during loop of 603516:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.469118
+Caught exception in calculate during loop of 002142:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.472120
+Caught exception in calculate during loop of 300212:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.476118
+Caught exception in calculate during loop of 300389:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.479118
+Caught exception in calculate during loop of 688188:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.481118
+Caught exception in calculate during loop of 002897:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.485124
+Caught exception in calculate during loop of 688045:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.488102
+Caught exception in calculate during loop of 002988:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.492123
+Caught exception in calculate during loop of 000034:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.495118
+Caught exception in calculate during loop of 688521:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.497118
+Caught exception in calculate during loop of 600059:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.500102
+Caught exception in calculate during loop of 688196:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.504104
+Caught exception in calculate during loop of 300138:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.507128
+Caught exception in calculate during loop of 601801:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.510136
+Caught exception in calculate during loop of 300760:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.513129
+Caught exception in calculate during loop of 600197:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.516109
+Caught exception in calculate during loop of 300491:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.519131
+Caught exception in calculate during loop of 688223:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.523295
+Caught exception in calculate during loop of 000672:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.527285
+Caught exception in calculate during loop of 688376:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.530283
+Caught exception in calculate during loop of 002262:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.533284
+Caught exception in calculate during loop of 000560:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.537288
+Caught exception in calculate during loop of 600905:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.540307
+Caught exception in calculate during loop of 300049:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.544303
+Caught exception in calculate during loop of 300486:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.544303
+Caught exception in calculate during loop of 835207:
+[Errno 2] No such file or directory: '../data/short_term_solvency_ratio/grpFiData/tbl835207quarterly_balance_sheet.csv'
+---------
+2023-08-18 19:46:04.547303
+Caught exception in calculate during loop of 002991:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.550287
+Caught exception in calculate during loop of 003000:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.553286
+Caught exception in calculate during loop of 603456:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.557308
+Caught exception in calculate during loop of 002461:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.560302
+Caught exception in calculate during loop of 002648:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.563302
+Caught exception in calculate during loop of 603236:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.565301
+Caught exception in calculate during loop of 301376:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.569303
+Caught exception in calculate during loop of 300725:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.572304
+Caught exception in calculate during loop of 300413:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.576286
+Caught exception in calculate during loop of 600926:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.579302
+Caught exception in calculate during loop of 601108:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.581302
+Caught exception in calculate during loop of 605186:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.584316
+Caught exception in calculate during loop of 300743:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.585285
+Caught exception in calculate during loop of 835179:
+[Errno 2] No such file or directory: '../data/short_term_solvency_ratio/grpFiData/tbl835179quarterly_balance_sheet.csv'
+---------
+2023-08-18 19:46:04.589293
+Caught exception in calculate during loop of 688116:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.593303
+Caught exception in calculate during loop of 688023:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.595311
+Caught exception in calculate during loop of 002978:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.598302
+Caught exception in calculate during loop of 002472:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.601284
+Caught exception in calculate during loop of 600309:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.604289
+Caught exception in calculate during loop of 002233:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.608311
+Caught exception in calculate during loop of 601012:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.611308
+Caught exception in calculate during loop of 002430:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.613308
+Caught exception in calculate during loop of 300366:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.616291
+Caught exception in calculate during loop of 002006:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.619292
+Caught exception in calculate during loop of 688139:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.623508
+Caught exception in calculate during loop of 002732:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.626478
+Caught exception in calculate during loop of 002857:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.629480
+Caught exception in calculate during loop of 002594:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.632567
+Caught exception in calculate during loop of 002948:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.635568
+Caught exception in calculate during loop of 601138:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.639494
+Caught exception in calculate during loop of 001308:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.643477
+Caught exception in calculate during loop of 002050:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.645464
+Caught exception in calculate during loop of 000032:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.648486
+Caught exception in calculate during loop of 300285:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.652464
+Caught exception in calculate during loop of 002846:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.655462
+Caught exception in calculate during loop of 301260:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.658560
+Caught exception in calculate during loop of 601168:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.662461
+Caught exception in calculate during loop of 600557:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.665460
+Caught exception in calculate during loop of 688111:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.669461
+Caught exception in calculate during loop of 002158:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.673461
+Caught exception in calculate during loop of 002230:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.676568
+Caught exception in calculate during loop of 603162:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.679560
+Caught exception in calculate during loop of 600183:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.681900
+Caught exception in calculate during loop of 603551:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.684933
+Caught exception in calculate during loop of 600845:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.688508
+Caught exception in calculate during loop of 002602:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.692575
+Caught exception in calculate during loop of 301266:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.695554
+Caught exception in calculate during loop of 301353:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.697557
+Caught exception in calculate during loop of 600315:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.698463
+Caught exception in calculate during loop of 870204:
+[Errno 2] No such file or directory: '../data/short_term_solvency_ratio/grpFiData/tbl870204quarterly_balance_sheet.csv'
+---------
+2023-08-18 19:46:04.702566
+Caught exception in calculate during loop of 300699:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.706462
+Caught exception in calculate during loop of 300075:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.709560
+Caught exception in calculate during loop of 603099:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.712562
+Caught exception in calculate during loop of 000810:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.715570
+Caught exception in calculate during loop of 688661:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.717463
+Caught exception in calculate during loop of 600104:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.720967
+Caught exception in calculate during loop of 600600:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.721975
+Caught exception in calculate during loop of 836504:
+[Errno 2] No such file or directory: '../data/short_term_solvency_ratio/grpFiData/tbl836504quarterly_balance_sheet.csv'
+---------
+2023-08-18 19:46:04.726089
+Caught exception in calculate during loop of 603737:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.729079
+Caught exception in calculate during loop of 300682:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.731080
+Caught exception in calculate during loop of 300416:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.735078
+Caught exception in calculate during loop of 300218:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.738975
+Caught exception in calculate during loop of 000301:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.742086
+Caught exception in calculate during loop of 603605:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.745080
+Caught exception in calculate during loop of 002234:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.747975
+Caught exception in calculate during loop of 603076:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.751092
+Caught exception in calculate during loop of 600141:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.754974
+Caught exception in calculate during loop of 600212:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.757974
+Caught exception in calculate during loop of 688006:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.761080
+Caught exception in calculate during loop of 688315:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.761975
+Caught exception in calculate during loop of 871642:
+[Errno 2] No such file or directory: '../data/short_term_solvency_ratio/grpFiData/tbl871642quarterly_balance_sheet.csv'
+---------
+2023-08-18 19:46:04.764074
+Caught exception in calculate during loop of 603739:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.766975
+Caught exception in calculate during loop of 601890:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.769975
+Caught exception in calculate during loop of 002688:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.773080
+Caught exception in calculate during loop of 300888:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.778127
+Caught exception in calculate during loop of 000403:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.780077
+Caught exception in calculate during loop of 603499:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.782974
+Caught exception in calculate during loop of 603997:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.786089
+Caught exception in calculate during loop of 301439:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.788975
+Caught exception in calculate during loop of 000333:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.793044
+Caught exception in calculate during loop of 600284:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.796083
+Caught exception in calculate during loop of 688308:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.798084
+Caught exception in calculate during loop of 603569:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.800977
+Caught exception in calculate during loop of 688569:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.803975
+Caught exception in calculate during loop of 300174:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.807981
+Caught exception in calculate during loop of 603983:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.811091
+Caught exception in calculate during loop of 003006:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.813085
+Caught exception in calculate during loop of 603893:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.816086
+Caught exception in calculate during loop of 603501:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.819090
+Caught exception in calculate during loop of 600732:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.822716
+Caught exception in calculate during loop of 605268:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.827709
+Caught exception in calculate during loop of 603806:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.829713
+Caught exception in calculate during loop of 000848:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.831710
+Caught exception in calculate during loop of 601857:
+index 0 is out of bounds for axis 0 with size 0
+---------
+2023-08-18 19:46:04.835605
+Caught exception in calculate during loop of 688183:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.838659
+Caught exception in calculate during loop of 002706:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.839605
+Caught exception in calculate during loop of 871634:
+[Errno 2] No such file or directory: '../data/short_term_solvency_ratio/grpFiData/tbl871634quarterly_balance_sheet.csv'
+---------
+2023-08-18 19:46:04.842704
+Caught exception in calculate during loop of 000630:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.845646
+Caught exception in calculate during loop of 600886:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.848629
+Caught exception in calculate during loop of 688110:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.851605
+Caught exception in calculate during loop of 603171:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.854643
+Caught exception in calculate during loop of 000623:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.860603
+Caught exception in calculate during loop of 601158:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.860603
+Caught exception in calculate during loop of 836414:
+[Errno 2] No such file or directory: '../data/short_term_solvency_ratio/grpFiData/tbl836414quarterly_balance_sheet.csv'
+---------
+2023-08-18 19:46:04.864604
+Caught exception in calculate during loop of 002976:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.867605
+Caught exception in calculate during loop of 002345:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.870605
+Caught exception in calculate during loop of 002153:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.874604
+Caught exception in calculate during loop of 000977:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.877603
+Caught exception in calculate during loop of 301272:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.880603
+Caught exception in calculate during loop of 002438:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.884606
+Caught exception in calculate during loop of 000063:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.916294
+Caught exception in calculate during loop of 600036:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.919295
+Caught exception in calculate during loop of 600686:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.922814
+Caught exception in calculate during loop of 300818:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.926810
+Caught exception in calculate during loop of 301268:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.929810
+Caught exception in calculate during loop of 688698:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.931810
+Caught exception in calculate during loop of 603986:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.935814
+Caught exception in calculate during loop of 601128:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.939815
+Caught exception in calculate during loop of 601601:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.943811
+Caught exception in calculate during loop of 688347:
+index 0 is out of bounds for axis 0 with size 0
+---------
+2023-08-18 19:46:04.947813
+Caught exception in calculate during loop of 301498:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.951813
+Caught exception in calculate during loop of 000733:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.955815
+Caught exception in calculate during loop of 688401:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.960812
+Caught exception in calculate during loop of 000902:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.964812
+Caught exception in calculate during loop of 600876:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.969835
+Caught exception in calculate during loop of 002436:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.974821
+Caught exception in calculate during loop of 300068:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.978837
+Caught exception in calculate during loop of 300830:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.982815
+Caught exception in calculate during loop of 600233:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.987817
+Caught exception in calculate during loop of 002867:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.992813
+Caught exception in calculate during loop of 603808:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:04.996812
+Caught exception in calculate during loop of 600111:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.000815
+Caught exception in calculate during loop of 301158:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.004813
+Caught exception in calculate during loop of 601628:
+'2023-03-31 00:00:00'
+---------
+2023-08-18 19:46:05.009819
+Caught exception in calculate during loop of 603220:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.013818
+Caught exception in calculate during loop of 600499:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.018821
+Caught exception in calculate during loop of 002079:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.022137
+Caught exception in calculate during loop of 300073:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.028139
+Caught exception in calculate during loop of 002873:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.032137
+Caught exception in calculate during loop of 300861:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.036137
+Caught exception in calculate during loop of 002080:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.040138
+Caught exception in calculate during loop of 600702:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.045136
+Caught exception in calculate during loop of 002697:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.048135
+Caught exception in calculate during loop of 688626:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.052139
+Caught exception in calculate during loop of 301323:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.057137
+Caught exception in calculate during loop of 603198:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.061166
+Caught exception in calculate during loop of 003031:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.065137
+Caught exception in calculate during loop of 603590:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.069138
+Caught exception in calculate during loop of 688237:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.073136
+Caught exception in calculate during loop of 002033:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.078135
+Caught exception in calculate during loop of 688568:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.082137
+Caught exception in calculate during loop of 300783:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.087138
+Caught exception in calculate during loop of 301195:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.092135
+Caught exception in calculate during loop of 603050:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.095135
+Caught exception in calculate during loop of 300045:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.096136
+Caught exception in calculate during loop of 830779:
+[Errno 2] No such file or directory: '../data/short_term_solvency_ratio/grpFiData/tbl830779quarterly_balance_sheet.csv'
+---------
+2023-08-18 19:46:05.099135
+Caught exception in calculate during loop of 300926:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.099135
+Caught exception in calculate during loop of 839371:
+[Errno 2] No such file or directory: '../data/short_term_solvency_ratio/grpFiData/tbl839371quarterly_balance_sheet.csv'
+---------
+2023-08-18 19:46:05.103154
+Caught exception in calculate during loop of 688083:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.106164
+Caught exception in calculate during loop of 000596:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.110164
+Caught exception in calculate during loop of 603283:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.113160
+Caught exception in calculate during loop of 688522:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.115159
+Caught exception in calculate during loop of 300119:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.118146
+Caught exception in calculate during loop of 002335:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.122661
+Caught exception in calculate during loop of 600519:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.125679
+Caught exception in calculate during loop of 688048:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.128678
+Caught exception in calculate during loop of 688516:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.131677
+Caught exception in calculate during loop of 300327:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.134683
+Caught exception in calculate during loop of 605098:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.137660
+Caught exception in calculate during loop of 300034:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.141659
+Caught exception in calculate during loop of 601799:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.144677
+Caught exception in calculate during loop of 601886:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.146676
+Caught exception in calculate during loop of 688556:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.149659
+Caught exception in calculate during loop of 300568:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.153661
+Caught exception in calculate during loop of 600862:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.158658
+Caught exception in calculate during loop of 603728:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.161666
+Caught exception in calculate during loop of 002536:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.164679
+Caught exception in calculate during loop of 603209:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.167680
+Caught exception in calculate during loop of 601577:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.171663
+Caught exception in calculate during loop of 002556:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.175677
+Caught exception in calculate during loop of 688003:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.177677
+Caught exception in calculate during loop of 600123:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.180658
+Caught exception in calculate during loop of 688261:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.183660
+Caught exception in calculate during loop of 000528:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.187665
+Caught exception in calculate during loop of 603818:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.190662
+Caught exception in calculate during loop of 002568:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.193677
+Caught exception in calculate during loop of 605133:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.196676
+Caught exception in calculate during loop of 300316:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.198685
+Caught exception in calculate during loop of 688005:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.202661
+Caught exception in calculate during loop of 605337:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.206728
+Caught exception in calculate during loop of 688059:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.210716
+Caught exception in calculate during loop of 603995:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.212714
+Caught exception in calculate during loop of 300275:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.215694
+Caught exception in calculate during loop of 688526:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.219697
+Caught exception in calculate during loop of 300463:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.222851
+Caught exception in calculate during loop of 301446:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.226847
+Caught exception in calculate during loop of 002329:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.229848
+Caught exception in calculate during loop of 688515:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.232830
+Caught exception in calculate during loop of 605123:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.235831
+Caught exception in calculate during loop of 300858:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.240832
+Caught exception in calculate during loop of 603386:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.243847
+Caught exception in calculate during loop of 300001:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.245847
+Caught exception in calculate during loop of 603609:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.248848
+Caught exception in calculate during loop of 605589:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.251850
+Caught exception in calculate during loop of 688126:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.255849
+Caught exception in calculate during loop of 688778:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.259847
+Caught exception in calculate during loop of 688033:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.261849
+Caught exception in calculate during loop of 300036:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.264847
+Caught exception in calculate during loop of 300033:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.268848
+Caught exception in calculate during loop of 300146:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.271829
+Caught exception in calculate during loop of 002960:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.275848
+Caught exception in calculate during loop of 688100:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.277848
+Caught exception in calculate during loop of 603275:
+index 1 is out of bounds for axis 0 with size 1
+---------
+2023-08-18 19:46:05.280829
+Caught exception in calculate during loop of 600433:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.284848
+Caught exception in calculate during loop of 300972:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.287829
+Caught exception in calculate during loop of 300767:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.291832
+Caught exception in calculate during loop of 601868:
+'2022-12-31 00:00:00'
+---------
+2023-08-18 19:46:05.295830
+Caught exception in calculate during loop of 300124:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.298850
+Caught exception in calculate during loop of 002236:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.302848
+Caught exception in calculate during loop of 002881:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.305829
+Caught exception in calculate during loop of 603383:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.310853
+Caught exception in calculate during loop of 688381:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.313836
+Caught exception in calculate during loop of 600808:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.317842
+Caught exception in calculate during loop of 600916:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.322278
+Caught exception in calculate during loop of 601238:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.326299
+Caught exception in calculate during loop of 000060:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.329276
+Caught exception in calculate during loop of 600585:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.333279
+Caught exception in calculate during loop of 300607:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.337279
+Caught exception in calculate during loop of 603939:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.338279
+Caught exception in calculate during loop of 835368:
+[Errno 2] No such file or directory: '../data/short_term_solvency_ratio/grpFiData/tbl835368quarterly_balance_sheet.csv'
+---------
+2023-08-18 19:46:05.343279
+Caught exception in calculate during loop of 603517:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.347297
+Caught exception in calculate during loop of 002380:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.351290
+Caught exception in calculate during loop of 601699:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.355289
+Caught exception in calculate during loop of 600971:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.360296
+Caught exception in calculate during loop of 001311:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.363280
+Caught exception in calculate during loop of 300755:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.367277
+Caught exception in calculate during loop of 688358:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.371279
+Caught exception in calculate during loop of 688707:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.375300
+Caught exception in calculate during loop of 600728:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.379296
+Caught exception in calculate during loop of 603881:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.382298
+Caught exception in calculate during loop of 601000:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.386298
+Caught exception in calculate during loop of 688508:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.390286
+Caught exception in calculate during loop of 002768:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.395295
+Caught exception in calculate during loop of 002196:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.398297
+Caught exception in calculate during loop of 002015:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.402298
+Caught exception in calculate during loop of 600186:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.406290
+Caught exception in calculate during loop of 301367:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.410308
+Caught exception in calculate during loop of 002434:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.413308
+Caught exception in calculate during loop of 688305:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.416308
+Caught exception in calculate during loop of 688002:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.420798
+Caught exception in calculate during loop of 601918:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.425806
+Caught exception in calculate during loop of 301398:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.428822
+Caught exception in calculate during loop of 603508:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.431825
+Caught exception in calculate during loop of 002517:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.434806
+Caught exception in calculate during loop of 003012:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.438808
+Caught exception in calculate during loop of 600655:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.442824
+Caught exception in calculate during loop of 300037:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.445823
+Caught exception in calculate during loop of 688050:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.448822
+Caught exception in calculate during loop of 002709:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.453807
+Caught exception in calculate during loop of 688389:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.457832
+Caught exception in calculate during loop of 603713:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.461823
+Caught exception in calculate during loop of 688035:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.464829
+Caught exception in calculate during loop of 000625:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.467809
+Caught exception in calculate during loop of 301507:
+index 1 is out of bounds for axis 0 with size 1
+---------
+2023-08-18 19:46:05.471806
+Caught exception in calculate during loop of 600011:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.475805
+Caught exception in calculate during loop of 002649:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.479824
+Caught exception in calculate during loop of 002340:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.481823
+Caught exception in calculate during loop of 601618:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.486806
+Caught exception in calculate during loop of 688297:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.490807
+Caught exception in calculate during loop of 300453:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.491806
+Caught exception in calculate during loop of 837748:
+[Errno 2] No such file or directory: '../data/short_term_solvency_ratio/grpFiData/tbl837748quarterly_balance_sheet.csv'
+---------
+2023-08-18 19:46:05.494806
+Caught exception in calculate during loop of 002439:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.497803
+Caught exception in calculate during loop of 300705:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.501804
+Caught exception in calculate during loop of 603203:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.505841
+Caught exception in calculate during loop of 600475:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.510850
+Caught exception in calculate during loop of 300674:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.513849
+Caught exception in calculate during loop of 002559:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.516849
+Caught exception in calculate during loop of 002402:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.520848
+Caught exception in calculate during loop of 300627:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.521885
+Caught exception in calculate during loop of 873593:
+[Errno 2] No such file or directory: '../data/short_term_solvency_ratio/grpFiData/tbl873593quarterly_balance_sheet.csv'
+---------
+2023-08-18 19:46:05.525993
+Caught exception in calculate during loop of 688311:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.529986
+Caught exception in calculate during loop of 603163:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.531982
+Caught exception in calculate during loop of 301177:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.536886
+Caught exception in calculate during loop of 300750:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.540888
+Caught exception in calculate during loop of 002064:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.544991
+Caught exception in calculate during loop of 600977:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.547903
+Caught exception in calculate during loop of 300474:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.551883
+Caught exception in calculate during loop of 600363:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.555891
+Caught exception in calculate during loop of 002215:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.559904
+Caught exception in calculate during loop of 300559:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.560884
+Caught exception in calculate during loop of 832982:
+[Errno 2] No such file or directory: '../data/short_term_solvency_ratio/grpFiData/tbl832982quarterly_balance_sheet.csv'
+---------
+2023-08-18 19:46:05.563903
+Caught exception in calculate during loop of 301227:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.566884
+Caught exception in calculate during loop of 300363:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.570886
+Caught exception in calculate during loop of 688789:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.574906
+Caught exception in calculate during loop of 688335:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.577902
+Caught exception in calculate during loop of 600060:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.580902
+Caught exception in calculate during loop of 002003:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.581883
+Caught exception in calculate during loop of 871694:
+[Errno 2] No such file or directory: '../data/short_term_solvency_ratio/grpFiData/tbl871694quarterly_balance_sheet.csv'
+---------
+2023-08-18 19:46:05.584888
+Caught exception in calculate during loop of 688029:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.587885
+Caught exception in calculate during loop of 002780:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.591912
+Caught exception in calculate during loop of 688037:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.594885
+Caught exception in calculate during loop of 688018:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.597901
+Caught exception in calculate during loop of 000887:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.599882
+Caught exception in calculate during loop of 300450:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.602902
+Caught exception in calculate during loop of 300620:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.606888
+Caught exception in calculate during loop of 688022:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.610889
+Caught exception in calculate during loop of 002653:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.613906
+Caught exception in calculate during loop of 603215:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.616888
+Caught exception in calculate during loop of 688231:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.619889
+Caught exception in calculate during loop of 002121:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.624242
+Caught exception in calculate during loop of 605338:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.627263
+Caught exception in calculate during loop of 002212:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.630257
+Caught exception in calculate during loop of 688099:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.633238
+Caught exception in calculate during loop of 603833:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.636240
+Caught exception in calculate during loop of 300019:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.637240
+Caught exception in calculate during loop of 834950:
+[Errno 2] No such file or directory: '../data/short_term_solvency_ratio/grpFiData/tbl834950quarterly_balance_sheet.csv'
+---------
+2023-08-18 19:46:05.641244
+Caught exception in calculate during loop of 688390:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.645239
+Caught exception in calculate during loop of 301377:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.647257
+Caught exception in calculate during loop of 600422:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.650239
+Caught exception in calculate during loop of 688322:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.654242
+Caught exception in calculate during loop of 301071:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.657264
+Caught exception in calculate during loop of 000543:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.661257
+Caught exception in calculate during loop of 603579:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.663257
+Caught exception in calculate during loop of 601766:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.666239
+Caught exception in calculate during loop of 002497:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.669241
+Caught exception in calculate during loop of 688160:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.673243
+Caught exception in calculate during loop of 603778:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.677258
+Caught exception in calculate during loop of 300438:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.680257
+Caught exception in calculate during loop of 300685:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.683239
+Caught exception in calculate during loop of 000603:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.687240
+Caught exception in calculate during loop of 000541:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.691242
+Caught exception in calculate during loop of 601899:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.694258
+Caught exception in calculate during loop of 600176:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.695251
+Caught exception in calculate during loop of 836270:
+[Errno 2] No such file or directory: '../data/short_term_solvency_ratio/grpFiData/tbl836270quarterly_balance_sheet.csv'
+---------
+2023-08-18 19:46:05.697256
+Caught exception in calculate during loop of 688772:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.700239
+Caught exception in calculate during loop of 600481:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.704240
+Caught exception in calculate during loop of 002020:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.707274
+Caught exception in calculate during loop of 601019:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.711265
+Caught exception in calculate during loop of 002533:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.714265
+Caught exception in calculate during loop of 605128:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.716273
+Caught exception in calculate during loop of 301106:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.720805
+Caught exception in calculate during loop of 603979:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.723836
+Caught exception in calculate during loop of 688016:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.727833
+Caught exception in calculate during loop of 002270:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.729836
+Caught exception in calculate during loop of 002475:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.732834
+Caught exception in calculate during loop of 300634:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.735838
+Caught exception in calculate during loop of 603667:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.739818
+Caught exception in calculate during loop of 600779:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.742833
+Caught exception in calculate during loop of 603270:
+index 1 is out of bounds for axis 0 with size 1
+---------
+2023-08-18 19:46:05.744832
+Caught exception in calculate during loop of 300996:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.747833
+Caught exception in calculate during loop of 600276:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.749840
+Caught exception in calculate during loop of 688153:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.753816
+Caught exception in calculate during loop of 301102:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.756837
+Caught exception in calculate during loop of 301371:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.759832
+Caught exception in calculate during loop of 300454:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.761832
+Caught exception in calculate during loop of 688170:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.764835
+Caught exception in calculate during loop of 300002:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.767817
+Caught exception in calculate during loop of 001301:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.770817
+Caught exception in calculate during loop of 689009:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.773838
+Caught exception in calculate during loop of 603059:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.777832
+Caught exception in calculate during loop of 600196:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.779832
+Caught exception in calculate during loop of 603096:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.782833
+Caught exception in calculate during loop of 688639:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.785816
+Caught exception in calculate during loop of 688209:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.789843
+Caught exception in calculate during loop of 605305:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.792833
+Caught exception in calculate during loop of 603309:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.795833
+Caught exception in calculate during loop of 688268:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.797832
+Caught exception in calculate during loop of 600489:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.801824
+Caught exception in calculate during loop of 600285:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.804815
+Caught exception in calculate during loop of 600050:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.808839
+Caught exception in calculate during loop of 300759:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.810837
+Caught exception in calculate during loop of 300617:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.813839
+Caught exception in calculate during loop of 603055:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.815839
+Caught exception in calculate during loop of 688186:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.819822
+Caught exception in calculate during loop of 603187:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.823366
+Caught exception in calculate during loop of 603191:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.826360
+Caught exception in calculate during loop of 300442:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.829358
+Caught exception in calculate during loop of 300724:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.832360
+Caught exception in calculate during loop of 300353:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.834343
+Caught exception in calculate during loop of 300284:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.838341
+Caught exception in calculate during loop of 000807:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.841368
+Caught exception in calculate during loop of 688238:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.842341
+Caught exception in calculate during loop of 834058:
+[Errno 2] No such file or directory: '../data/short_term_solvency_ratio/grpFiData/tbl834058quarterly_balance_sheet.csv'
+---------
+2023-08-18 19:46:05.845359
+Caught exception in calculate during loop of 002384:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.847359
+Caught exception in calculate during loop of 301096:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.850341
+Caught exception in calculate during loop of 002099:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.853342
+Caught exception in calculate during loop of 688548:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.856348
+Caught exception in calculate during loop of 300718:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.860360
+Caught exception in calculate during loop of 000066:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.863360
+Caught exception in calculate during loop of 300957:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.865359
+Caught exception in calculate during loop of 601898:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.868343
+Caught exception in calculate during loop of 601126:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.871341
+Caught exception in calculate during loop of 600157:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.875359
+Caught exception in calculate during loop of 688435:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.877358
+Caught exception in calculate during loop of 603876:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.880360
+Caught exception in calculate during loop of 601985:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.882358
+Caught exception in calculate during loop of 688210:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.885345
+Caught exception in calculate during loop of 601319:
+'2022-12-31 00:00:00'
+---------
+2023-08-18 19:46:05.888345
+Caught exception in calculate during loop of 688176:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.892359
+Caught exception in calculate during loop of 600096:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.895343
+Caught exception in calculate during loop of 002061:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.897358
+Caught exception in calculate during loop of 000739:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.900341
+Caught exception in calculate during loop of 688612:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.903343
+Caught exception in calculate during loop of 605358:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.907366
+Caught exception in calculate during loop of 000690:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.909459
+Caught exception in calculate during loop of 688591:
+index 1 is out of bounds for axis 0 with size 1
+---------
+2023-08-18 19:46:05.912370
+Caught exception in calculate during loop of 688202:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.915370
+Caught exception in calculate during loop of 600048:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.918350
+Caught exception in calculate during loop of 002738:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.921862
+Caught exception in calculate during loop of 002605:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.924861
+Caught exception in calculate during loop of 600000:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.927887
+Caught exception in calculate during loop of 601865:
+'2022-12-31 00:00:00'
+---------
+2023-08-18 19:46:05.929880
+Caught exception in calculate during loop of 605007:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.932880
+Caught exception in calculate during loop of 002587:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.935868
+Caught exception in calculate during loop of 002088:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.936866
+Caught exception in calculate during loop of 430685:
+[Errno 2] No such file or directory: '../data/short_term_solvency_ratio/grpFiData/tbl430685quarterly_balance_sheet.csv'
+---------
+2023-08-18 19:46:05.940868
+Caught exception in calculate during loop of 002674:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.943881
+Caught exception in calculate during loop of 300394:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.946880
+Caught exception in calculate during loop of 688361:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.949880
+Caught exception in calculate during loop of 601677:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.952868
+Caught exception in calculate during loop of 600346:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.955880
+Caught exception in calculate during loop of 601058:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.959880
+Caught exception in calculate during loop of 300482:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.962880
+Caught exception in calculate during loop of 605507:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.965879
+Caught exception in calculate during loop of 002913:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.968863
+Caught exception in calculate during loop of 301393:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.971862
+Caught exception in calculate during loop of 688131:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.975880
+Caught exception in calculate during loop of 002968:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.977879
+Caught exception in calculate during loop of 600882:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.980879
+Caught exception in calculate during loop of 688608:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.982880
+Caught exception in calculate during loop of 603366:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.985882
+Caught exception in calculate during loop of 300371:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.988863
+Caught exception in calculate during loop of 301188:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.992866
+Caught exception in calculate during loop of 688369:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.995879
+Caught exception in calculate during loop of 300012:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:05.997881
+Caught exception in calculate during loop of 600761:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:06.000864
+Caught exception in calculate during loop of 603307:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:06.003863
+Caught exception in calculate during loop of 301310:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:06.006949
+Caught exception in calculate during loop of 600588:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:06.010934
+Caught exception in calculate during loop of 300308:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:06.012933
+Caught exception in calculate during loop of 688377:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:06.015934
+Caught exception in calculate during loop of 300693:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:06.017917
+Caught exception in calculate during loop of 603439:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:06.020915
+Caught exception in calculate during loop of 301101:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:06.026365
+Caught exception in calculate during loop of 300379:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:06.028374
+Caught exception in calculate during loop of 603809:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:06.031363
+Caught exception in calculate during loop of 002583:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:06.034347
+Caught exception in calculate during loop of 000422:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:06.037345
+Caught exception in calculate during loop of 688076:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:06.040367
+Caught exception in calculate during loop of 300596:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:06.044364
+Caught exception in calculate during loop of 002223:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:06.047066
+Caught exception in calculate during loop of 601838:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:06.049200
+Caught exception in calculate during loop of 300919:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:06.052210
+Caught exception in calculate during loop of 605368:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:06.055212
+Caught exception in calculate during loop of 300856:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:06.059230
+Caught exception in calculate during loop of 002567:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:06.062231
+Caught exception in calculate during loop of 688085:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:06.064233
+Caught exception in calculate during loop of 300553:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:06.067213
+Caught exception in calculate during loop of 002245:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:06.071214
+Caught exception in calculate during loop of 600699:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:06.074231
+Caught exception in calculate during loop of 605499:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:06.078231
+Caught exception in calculate during loop of 300567:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:06.080230
+Caught exception in calculate during loop of 300406:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:06.083230
+Caught exception in calculate during loop of 603707:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:06.086217
+Caught exception in calculate during loop of 000938:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:06.089236
+Caught exception in calculate during loop of 300496:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:06.093230
+Caught exception in calculate during loop of 300740:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:06.095211
+Caught exception in calculate during loop of 000567:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:06.098230
+Caught exception in calculate during loop of 688082:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:06.101212
+Caught exception in calculate during loop of 300761:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:06.104213
+Caught exception in calculate during loop of 600435:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:06.107240
+Caught exception in calculate during loop of 688061:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:06.110234
+Caught exception in calculate during loop of 603212:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:06.113234
+Caught exception in calculate during loop of 603589:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:06.115234
+Caught exception in calculate during loop of 002985:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:06.118243
+Caught exception in calculate during loop of 603712:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:06.121724
+Caught exception in calculate during loop of 601633:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:06.125748
+Caught exception in calculate during loop of 300493:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:06.127754
+Caught exception in calculate during loop of 603208:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:06.129749
+Caught exception in calculate during loop of 688185:
+'2022-12-31 00:00:00'
+---------
+2023-08-18 19:46:06.130748
+Caught exception in calculate during loop of 835985:
+[Errno 2] No such file or directory: '../data/short_term_solvency_ratio/grpFiData/tbl835985quarterly_balance_sheet.csv'
+---------
+2023-08-18 19:46:06.133730
+Caught exception in calculate during loop of 688270:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:06.136748
+Caught exception in calculate during loop of 300661:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:06.140740
+Caught exception in calculate during loop of 600755:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:06.143748
+Caught exception in calculate during loop of 601328:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:06.146748
+Caught exception in calculate during loop of 600975:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:06.148751
+Caught exception in calculate during loop of 603505:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:06.152736
+Caught exception in calculate during loop of 603008:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:06.155737
+Caught exception in calculate during loop of 600919:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:06.159747
+Caught exception in calculate during loop of 000526:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:46:06.161747
+Caught exception in calculate during loop of 000831:
+getPriceChangeRatio() got multiple values for argument 'st'
+---------
+2023-08-18 19:52:01.182329
+Caught exception in calculate during loop of 603057:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:52:01.184467
+Caught exception in calculate during loop of 836414:
+[Errno 2] No such file or directory: '../data/short_term_solvency_ratio/grpFiData/tbl836414quarterly_balance_sheet.csv'
+---------
+2023-08-18 19:52:02.065204
+Caught exception in calculate during loop of 601899:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:52:02.959995
+Caught exception in calculate during loop of 600600:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:52:03.850035
+Caught exception in calculate during loop of 301190:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:52:04.665347
+Caught exception in calculate during loop of 002430:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:52:05.684256
+Caught exception in calculate during loop of 003000:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:52:05.687253
+Caught exception in calculate during loop of 601868:
+'2022-12-31 00:00:00'
+---------
+2023-08-18 19:52:06.606083
+Caught exception in calculate during loop of 300033:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:52:07.581289
+Caught exception in calculate during loop of 688076:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:52:08.501507
+Caught exception in calculate during loop of 000915:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:52:09.363229
+Caught exception in calculate during loop of 002079:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:52:10.241299
+Caught exception in calculate during loop of 688116:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:52:11.073597
+Caught exception in calculate during loop of 688201:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:52:12.013562
+Caught exception in calculate during loop of 300620:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:52:12.867840
+Caught exception in calculate during loop of 688403:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:52:13.721039
+Caught exception in calculate during loop of 300653:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:52:14.658410
+Caught exception in calculate during loop of 002439:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:52:15.573140
+Caught exception in calculate during loop of 688114:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:52:16.424155
+Caught exception in calculate during loop of 600200:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:52:17.360136
+Caught exception in calculate during loop of 300059:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:52:18.209063
+Caught exception in calculate during loop of 300354:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:52:19.106021
+Caught exception in calculate during loop of 300755:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:52:19.987178
+Caught exception in calculate during loop of 600195:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:52:20.805476
+Caught exception in calculate during loop of 600882:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:52:21.682242
+Caught exception in calculate during loop of 605128:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:52:22.560529
+Caught exception in calculate during loop of 300767:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:52:23.413124
+Caught exception in calculate during loop of 600975:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:52:24.307832
+Caught exception in calculate during loop of 000960:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:52:25.185664
+Caught exception in calculate during loop of 300855:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:52:26.104898
+Caught exception in calculate during loop of 300725:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:52:27.083270
+Caught exception in calculate during loop of 002099:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:52:27.902839
+Caught exception in calculate during loop of 000066:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:52:28.723809
+Caught exception in calculate during loop of 600686:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:52:29.653827
+Caught exception in calculate during loop of 002938:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:52:30.619543
+Caught exception in calculate during loop of 001914:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:52:31.509680
+Caught exception in calculate during loop of 001308:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:52:32.488251
+Caught exception in calculate during loop of 300075:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:52:33.365045
+Caught exception in calculate during loop of 301272:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:52:34.252500
+Caught exception in calculate during loop of 300049:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:52:35.173411
+Caught exception in calculate during loop of 603997:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:52:35.175317
+Caught exception in calculate during loop of 430476:
+[Errno 2] No such file or directory: '../data/short_term_solvency_ratio/grpFiData/tbl430476quarterly_balance_sheet.csv'
+---------
+2023-08-18 19:52:36.089601
+Caught exception in calculate during loop of 002857:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:52:37.021590
+Caught exception in calculate during loop of 000983:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:52:37.979508
+Caught exception in calculate during loop of 603809:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:52:38.920066
+Caught exception in calculate during loop of 688315:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:52:39.886996
+Caught exception in calculate during loop of 002465:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:52:40.748484
+Caught exception in calculate during loop of 600720:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:52:41.599019
+Caught exception in calculate during loop of 688779:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:52:42.441775
+Caught exception in calculate during loop of 688037:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:52:43.283161
+Caught exception in calculate during loop of 603505:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:52:44.159522
+Caught exception in calculate during loop of 688639:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:52:45.026023
+Caught exception in calculate during loop of 601998:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:52:46.039154
+Caught exception in calculate during loop of 000516:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:52:46.892345
+Caught exception in calculate during loop of 688121:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:52:47.749293
+Caught exception in calculate during loop of 688582:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:52:48.627158
+Caught exception in calculate during loop of 603993:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:52:49.499260
+Caught exception in calculate during loop of 002138:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:52:50.519263
+Caught exception in calculate during loop of 601158:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:52:51.388675
+Caught exception in calculate during loop of 688186:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:52:52.239096
+Caught exception in calculate during loop of 600905:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:52:53.159841
+Caught exception in calculate during loop of 688153:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:52:54.028225
+Caught exception in calculate during loop of 000526:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:52:54.947286
+Caught exception in calculate during loop of 300048:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:52:55.929095
+Caught exception in calculate during loop of 000999:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:52:56.847564
+Caught exception in calculate during loop of 600926:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:52:57.827316
+Caught exception in calculate during loop of 300421:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:52:58.786837
+Caught exception in calculate during loop of 603518:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:52:59.763198
+Caught exception in calculate during loop of 002648:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:53:00.666037
+Caught exception in calculate during loop of 301220:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:53:01.529763
+Caught exception in calculate during loop of 600499:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:53:02.421207
+Caught exception in calculate during loop of 300957:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:53:03.318479
+Caught exception in calculate during loop of 001311:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:53:04.212825
+Caught exception in calculate during loop of 600919:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:53:04.219921
+Caught exception in calculate during loop of 688185:
+'2022-12-31 00:00:00'
+---------
+2023-08-18 19:53:05.211600
+Caught exception in calculate during loop of 688609:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:53:06.079687
+Caught exception in calculate during loop of 688237:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:53:06.992105
+Caught exception in calculate during loop of 003031:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:53:07.926478
+Caught exception in calculate during loop of 601601:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:53:08.797565
+Caught exception in calculate during loop of 301108:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:53:08.800558
+Caught exception in calculate during loop of 601628:
+'2023-03-31 00:00:00'
+---------
+2023-08-18 19:53:09.679861
+Caught exception in calculate during loop of 300596:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:53:10.603754
+Caught exception in calculate during loop of 603138:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:53:11.576944
+Caught exception in calculate during loop of 301376:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:53:12.443632
+Caught exception in calculate during loop of 601128:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:53:13.364423
+Caught exception in calculate during loop of 301071:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:53:14.240006
+Caught exception in calculate during loop of 688388:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:53:15.122914
+Caught exception in calculate during loop of 001979:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:53:16.037511
+Caught exception in calculate during loop of 300188:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:53:16.989206
+Caught exception in calculate during loop of 300073:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:53:17.988729
+Caught exception in calculate during loop of 688061:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:53:18.834319
+Caught exception in calculate during loop of 002991:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:53:19.677210
+Caught exception in calculate during loop of 603307:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:53:20.583179
+Caught exception in calculate during loop of 605337:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:53:21.427669
+Caught exception in calculate during loop of 600987:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:53:22.357923
+Caught exception in calculate during loop of 601699:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:53:22.358921
+Caught exception in calculate during loop of 830779:
+[Errno 2] No such file or directory: '../data/short_term_solvency_ratio/grpFiData/tbl830779quarterly_balance_sheet.csv'
+---------
+2023-08-18 19:53:23.280366
+Caught exception in calculate during loop of 600519:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:53:24.184559
+Caught exception in calculate during loop of 000729:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:53:25.049882
+Caught exception in calculate during loop of 002438:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:53:25.050882
+Caught exception in calculate during loop of 836504:
+[Errno 2] No such file or directory: '../data/short_term_solvency_ratio/grpFiData/tbl836504quarterly_balance_sheet.csv'
+---------
+2023-08-18 19:53:25.981844
+Caught exception in calculate during loop of 301446:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:53:26.952501
+Caught exception in calculate during loop of 605099:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:53:27.764006
+Caught exception in calculate during loop of 300146:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:53:28.673739
+Caught exception in calculate during loop of 000895:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:53:28.680732
+Caught exception in calculate during loop of 601857:
+index 0 is out of bounds for axis 0 with size 0
+---------
+2023-08-18 19:53:29.613364
+Caught exception in calculate during loop of 600063:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:53:30.469803
+Caught exception in calculate during loop of 000060:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:53:31.383609
+Caught exception in calculate during loop of 000977:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:53:32.371116
+Caught exception in calculate during loop of 603118:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:53:33.343778
+Caught exception in calculate during loop of 000807:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:53:34.216276
+Caught exception in calculate during loop of 605268:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:53:35.124096
+Caught exception in calculate during loop of 601318:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:53:36.002284
+Caught exception in calculate during loop of 603198:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:53:36.888465
+Caught exception in calculate during loop of 688126:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:53:37.780407
+Caught exception in calculate during loop of 300212:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:53:38.762666
+Caught exception in calculate during loop of 300349:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:53:39.632526
+Caught exception in calculate during loop of 002080:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:53:40.585669
+Caught exception in calculate during loop of 000002:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:53:41.523819
+Caught exception in calculate during loop of 300366:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:53:42.384623
+Caught exception in calculate during loop of 688176:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:53:43.227562
+Caught exception in calculate during loop of 603008:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:53:44.155719
+Caught exception in calculate during loop of 600489:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:53:45.029416
+Caught exception in calculate during loop of 301195:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:53:45.906616
+Caught exception in calculate during loop of 603186:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:53:46.799680
+Caught exception in calculate during loop of 688526:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:53:47.714430
+Caught exception in calculate during loop of 300496:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:53:48.699498
+Caught exception in calculate during loop of 300559:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:53:49.683142
+Caught exception in calculate during loop of 000938:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:53:50.591062
+Caught exception in calculate during loop of 601766:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:53:51.558806
+Caught exception in calculate during loop of 002891:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:53:52.454878
+Caught exception in calculate during loop of 301266:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:53:53.384761
+Caught exception in calculate during loop of 001283:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:53:54.239457
+Caught exception in calculate during loop of 688515:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:53:55.124161
+Caught exception in calculate during loop of 002436:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:53:55.999007
+Caught exception in calculate during loop of 603163:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:53:56.960546
+Caught exception in calculate during loop of 002003:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:53:57.842609
+Caught exception in calculate during loop of 600481:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:53:58.744129
+Caught exception in calculate during loop of 601799:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:53:59.579838
+Caught exception in calculate during loop of 002698:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:54:00.522326
+Caught exception in calculate during loop of 603508:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:54:01.389029
+Caught exception in calculate during loop of 605358:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:54:02.371908
+Caught exception in calculate during loop of 601126:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:54:03.218279
+Caught exception in calculate during loop of 300996:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:54:04.159480
+Caught exception in calculate during loop of 601333:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:54:05.039093
+Caught exception in calculate during loop of 002475:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:54:05.960251
+Caught exception in calculate during loop of 300394:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:54:06.927600
+Caught exception in calculate during loop of 000682:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:54:07.907005
+Caught exception in calculate during loop of 300705:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:54:08.815369
+Caught exception in calculate during loop of 601007:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:54:09.826479
+Caught exception in calculate during loop of 000848:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:54:10.800477
+Caught exception in calculate during loop of 600588:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:54:11.753533
+Caught exception in calculate during loop of 300743:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:54:12.639770
+Caught exception in calculate during loop of 688335:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:54:13.466618
+Caught exception in calculate during loop of 002801:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:54:14.362848
+Caught exception in calculate during loop of 603818:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:54:15.226363
+Caught exception in calculate during loop of 002236:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:54:16.195394
+Caught exception in calculate during loop of 301260:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:54:17.157423
+Caught exception in calculate during loop of 300768:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:54:18.153361
+Caught exception in calculate during loop of 688111:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:54:19.123174
+Caught exception in calculate during loop of 000931:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:54:20.019046
+Caught exception in calculate during loop of 300751:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:54:21.010254
+Caught exception in calculate during loop of 688120:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:54:21.978815
+Caught exception in calculate during loop of 000887:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:54:22.881401
+Caught exception in calculate during loop of 688698:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:54:23.761052
+Caught exception in calculate during loop of 605368:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:54:24.623665
+Caught exception in calculate during loop of 300001:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:54:25.483155
+Caught exception in calculate during loop of 600970:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:54:26.508188
+Caught exception in calculate during loop of 300174:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:54:27.398012
+Caught exception in calculate during loop of 600266:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:54:28.267791
+Caught exception in calculate during loop of 600976:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:54:29.234665
+Caught exception in calculate during loop of 300474:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:54:30.098088
+Caught exception in calculate during loop of 002472:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:54:30.961817
+Caught exception in calculate during loop of 002335:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:54:31.839846
+Caught exception in calculate during loop of 300275:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:54:32.776947
+Caught exception in calculate during loop of 603893:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:54:33.676452
+Caught exception in calculate during loop of 301080:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:54:34.584611
+Caught exception in calculate during loop of 688231:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:54:35.420395
+Caught exception in calculate during loop of 603489:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:54:36.388515
+Caught exception in calculate during loop of 603569:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:54:37.359425
+Caught exception in calculate during loop of 002414:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:54:38.250007
+Caught exception in calculate during loop of 603590:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:54:39.227829
+Caught exception in calculate during loop of 002697:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:54:40.080034
+Caught exception in calculate during loop of 603309:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:54:40.956825
+Caught exception in calculate during loop of 603800:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:54:41.840969
+Caught exception in calculate during loop of 688521:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:54:42.743641
+Caught exception in calculate during loop of 688322:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:54:43.589862
+Caught exception in calculate during loop of 002129:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:54:44.496957
+Caught exception in calculate during loop of 300416:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:54:45.357208
+Caught exception in calculate during loop of 000333:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:54:46.306300
+Caught exception in calculate during loop of 002497:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:54:47.166941
+Caught exception in calculate during loop of 688626:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:54:48.098184
+Caught exception in calculate during loop of 300607:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:54:48.943601
+Caught exception in calculate during loop of 603383:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:54:48.945504
+Caught exception in calculate during loop of 835179:
+[Errno 2] No such file or directory: '../data/short_term_solvency_ratio/grpFiData/tbl835179quarterly_balance_sheet.csv'
+---------
+2023-08-18 19:54:49.894471
+Caught exception in calculate during loop of 601677:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:54:50.817278
+Caught exception in calculate during loop of 600011:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:54:50.818267
+Caught exception in calculate during loop of 871642:
+[Errno 2] No such file or directory: '../data/short_term_solvency_ratio/grpFiData/tbl871642quarterly_balance_sheet.csv'
+---------
+2023-08-18 19:54:51.718686
+Caught exception in calculate during loop of 688733:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:54:52.561516
+Caught exception in calculate during loop of 601058:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:54:53.485892
+Caught exception in calculate during loop of 002006:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:54:54.426657
+Caught exception in calculate during loop of 600438:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:54:55.300348
+Caught exception in calculate during loop of 600888:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:54:56.236921
+Caught exception in calculate during loop of 002329:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:54:57.146276
+Caught exception in calculate during loop of 600971:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:54:58.122915
+Caught exception in calculate during loop of 002384:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:54:58.978187
+Caught exception in calculate during loop of 603439:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:54:59.918289
+Caught exception in calculate during loop of 301439:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:55:00.864401
+Caught exception in calculate during loop of 600655:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:55:01.785072
+Caught exception in calculate during loop of 002245:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:55:02.685571
+Caught exception in calculate during loop of 301004:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:55:03.565001
+Caught exception in calculate during loop of 300285:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:55:04.531896
+Caught exception in calculate during loop of 600346:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:55:05.508984
+Caught exception in calculate during loop of 301393:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:55:06.397681
+Caught exception in calculate during loop of 603579:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:55:07.419264
+Caught exception in calculate during loop of 688131:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:55:08.352330
+Caught exception in calculate during loop of 688311:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:55:09.186356
+Caught exception in calculate during loop of 600862:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:55:10.014815
+Caught exception in calculate during loop of 300857:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:55:10.928342
+Caught exception in calculate during loop of 300510:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:55:11.776432
+Caught exception in calculate during loop of 002233:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:55:12.582493
+Caught exception in calculate during loop of 000998:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:55:13.481628
+Caught exception in calculate during loop of 688358:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:55:14.456059
+Caught exception in calculate during loop of 300888:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:55:15.284995
+Caught exception in calculate during loop of 600482:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:55:16.155098
+Caught exception in calculate during loop of 688556:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:55:17.083209
+Caught exception in calculate during loop of 000603:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:55:17.943883
+Caught exception in calculate during loop of 600977:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:55:18.897534
+Caught exception in calculate during loop of 688475:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:55:19.730825
+Caught exception in calculate during loop of 688389:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:55:20.609210
+Caught exception in calculate during loop of 300567:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:55:21.689127
+Caught exception in calculate during loop of 688035:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:55:21.691124
+Caught exception in calculate during loop of 839371:
+[Errno 2] No such file or directory: '../data/short_term_solvency_ratio/grpFiData/tbl839371quarterly_balance_sheet.csv'
+---------
+2023-08-18 19:55:22.663227
+Caught exception in calculate during loop of 600794:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:55:23.613201
+Caught exception in calculate during loop of 300284:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:55:24.576610
+Caught exception in calculate during loop of 688082:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:55:25.532607
+Caught exception in calculate during loop of 600475:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:55:26.482161
+Caught exception in calculate during loop of 301363:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:55:27.469788
+Caught exception in calculate during loop of 600761:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:55:28.376627
+Caught exception in calculate during loop of 603979:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:55:29.224244
+Caught exception in calculate during loop of 600808:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:55:30.107927
+Caught exception in calculate during loop of 301317:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:55:30.953575
+Caught exception in calculate during loop of 600933:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:55:31.865581
+Caught exception in calculate during loop of 002867:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:55:32.714547
+Caught exception in calculate during loop of 000528:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:55:32.715546
+Caught exception in calculate during loop of 871694:
+[Errno 2] No such file or directory: '../data/short_term_solvency_ratio/grpFiData/tbl871694quarterly_balance_sheet.csv'
+---------
+2023-08-18 19:55:33.662915
+Caught exception in calculate during loop of 688023:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:55:34.520646
+Caught exception in calculate during loop of 600941:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:55:35.477366
+Caught exception in calculate during loop of 688536:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:55:36.376052
+Caught exception in calculate during loop of 603456:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:55:37.325010
+Caught exception in calculate during loop of 300919:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:55:38.250403
+Caught exception in calculate during loop of 600284:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:55:39.192883
+Caught exception in calculate during loop of 600309:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:55:40.138584
+Caught exception in calculate during loop of 601238:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:55:41.117263
+Caught exception in calculate during loop of 300568:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:55:41.118307
+Caught exception in calculate during loop of 873593:
+[Errno 2] No such file or directory: '../data/short_term_solvency_ratio/grpFiData/tbl873593quarterly_balance_sheet.csv'
+---------
+2023-08-18 19:55:42.062144
+Caught exception in calculate during loop of 603288:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:55:43.130928
+Caught exception in calculate during loop of 688508:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:55:44.097203
+Caught exception in calculate during loop of 000630:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:55:44.102216
+Caught exception in calculate during loop of 688981:
+index 0 is out of bounds for axis 0 with size 0
+---------
+2023-08-18 19:55:46.124340
+Caught exception in calculate during loop of 688268:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:55:46.126470
+Caught exception in calculate during loop of 831768:
+[Errno 2] No such file or directory: '../data/short_term_solvency_ratio/grpFiData/tbl831768quarterly_balance_sheet.csv'
+---------
+2023-08-18 19:55:47.197441
+Caught exception in calculate during loop of 300580:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:55:48.220698
+Caught exception in calculate during loop of 300363:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:55:50.322749
+Caught exception in calculate during loop of 688048:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:55:52.698660
+Caught exception in calculate during loop of 688212:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:55:53.704305
+Caught exception in calculate during loop of 601838:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:55:54.763971
+Caught exception in calculate during loop of 300232:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:55:56.365932
+Caught exception in calculate during loop of 002568:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:55:57.399606
+Caught exception in calculate during loop of 688310:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:55:58.408063
+Caught exception in calculate during loop of 688249:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:55:58.415131
+Caught exception in calculate during loop of 600956:
+'2022-12-31 00:00:00'
+---------
+2023-08-18 19:55:59.376148
+Caught exception in calculate during loop of 603050:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:56:00.238445
+Caught exception in calculate during loop of 002166:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:56:01.198385
+Caught exception in calculate during loop of 603063:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:56:02.157211
+Caught exception in calculate during loop of 601801:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:56:03.121669
+Caught exception in calculate during loop of 688612:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:56:03.997257
+Caught exception in calculate during loop of 600422:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:56:05.019662
+Caught exception in calculate during loop of 603171:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:56:06.043143
+Caught exception in calculate during loop of 688238:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:56:06.045145
+Caught exception in calculate during loop of 834950:
+[Errno 2] No such file or directory: '../data/short_term_solvency_ratio/grpFiData/tbl834950quarterly_balance_sheet.csv'
+---------
+2023-08-18 19:56:06.939906
+Caught exception in calculate during loop of 600096:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:56:07.777635
+Caught exception in calculate during loop of 603209:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:56:08.742801
+Caught exception in calculate during loop of 603610:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:56:08.744908
+Caught exception in calculate during loop of 832982:
+[Errno 2] No such file or directory: '../data/short_term_solvency_ratio/grpFiData/tbl832982quarterly_balance_sheet.csv'
+---------
+2023-08-18 19:56:09.625595
+Caught exception in calculate during loop of 603096:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:56:10.507315
+Caught exception in calculate during loop of 601618:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:56:11.398978
+Caught exception in calculate during loop of 300308:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:56:12.222611
+Caught exception in calculate during loop of 605133:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:56:13.089867
+Caught exception in calculate during loop of 002978:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:56:13.978327
+Caught exception in calculate during loop of 603345:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:56:14.979106
+Caught exception in calculate during loop of 603881:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:56:15.905776
+Caught exception in calculate during loop of 688305:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:56:16.801844
+Caught exception in calculate during loop of 603995:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:56:17.665490
+Caught exception in calculate during loop of 600123:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:56:18.517698
+Caught exception in calculate during loop of 605338:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:56:19.421150
+Caught exception in calculate during loop of 600036:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:56:20.338187
+Caught exception in calculate during loop of 688077:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:56:21.218057
+Caught exception in calculate during loop of 002643:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:56:22.307758
+Caught exception in calculate during loop of 600433:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:56:23.195557
+Caught exception in calculate during loop of 300491:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:56:24.104593
+Caught exception in calculate during loop of 600048:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:56:24.957141
+Caught exception in calculate during loop of 300454:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:56:25.855998
+Caught exception in calculate during loop of 600329:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:56:26.752816
+Caught exception in calculate during loop of 601339:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:56:27.781483
+Caught exception in calculate during loop of 600183:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:56:28.752934
+Caught exception in calculate during loop of 002709:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:56:29.675754
+Caught exception in calculate during loop of 600515:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:56:30.595799
+Caught exception in calculate during loop of 000301:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:56:31.542062
+Caught exception in calculate during loop of 603507:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:56:32.396173
+Caught exception in calculate during loop of 600702:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:56:33.276893
+Caught exception in calculate during loop of 300493:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:56:34.161010
+Caught exception in calculate during loop of 688409:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:56:35.077675
+Caught exception in calculate during loop of 003012:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:56:36.002977
+Caught exception in calculate during loop of 002602:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:56:36.976994
+Caught exception in calculate during loop of 001205:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:56:37.996346
+Caught exception in calculate during loop of 002846:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:56:38.963679
+Caught exception in calculate during loop of 002968:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:56:39.933759
+Caught exception in calculate during loop of 603444:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:56:40.896354
+Caught exception in calculate during loop of 301268:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:56:42.889966
+Caught exception in calculate during loop of 603366:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:56:43.880487
+Caught exception in calculate during loop of 688369:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:56:43.887599
+Caught exception in calculate during loop of 601865:
+'2022-12-31 00:00:00'
+---------
+2023-08-18 19:56:44.782658
+Caught exception in calculate during loop of 600363:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:56:45.675526
+Caught exception in calculate during loop of 000035:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:56:46.626861
+Caught exception in calculate during loop of 002153:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:56:47.517832
+Caught exception in calculate during loop of 603215:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:56:48.459973
+Caught exception in calculate during loop of 688318:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:56:49.544916
+Caught exception in calculate during loop of 300979:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:56:50.694745
+Caught exception in calculate during loop of 300482:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:56:51.618151
+Caught exception in calculate during loop of 600196:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:56:52.641614
+Caught exception in calculate during loop of 688270:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:56:53.677098
+Caught exception in calculate during loop of 002050:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:56:54.733353
+Caught exception in calculate during loop of 002380:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:56:55.660173
+Caught exception in calculate during loop of 600276:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:56:56.599386
+Caught exception in calculate during loop of 603876:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:56:56.606390
+Caught exception in calculate during loop of 601319:
+'2022-12-31 00:00:00'
+---------
+2023-08-18 19:56:57.608945
+Caught exception in calculate during loop of 002583:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:56:58.655414
+Caught exception in calculate during loop of 000423:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:56:59.763795
+Caught exception in calculate during loop of 002976:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:57:00.778098
+Caught exception in calculate during loop of 300861:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:57:01.782194
+Caught exception in calculate during loop of 300595:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:57:02.802558
+Caught exception in calculate during loop of 002234:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:57:03.918092
+Caught exception in calculate during loop of 688435:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:57:04.921706
+Caught exception in calculate during loop of 002594:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:57:05.928363
+Caught exception in calculate during loop of 301188:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:57:07.915812
+Caught exception in calculate during loop of 688099:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:57:08.921887
+Caught exception in calculate during loop of 002653:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:57:08.929881
+Caught exception in calculate during loop of 601828:
+'2022-12-31 00:00:00'
+---------
+2023-08-18 19:57:09.996378
+Caught exception in calculate during loop of 688002:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:57:11.011129
+Caught exception in calculate during loop of 300685:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:57:11.963628
+Caught exception in calculate during loop of 000623:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:57:12.939724
+Caught exception in calculate during loop of 600916:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:57:13.922060
+Caught exception in calculate during loop of 688279:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:57:14.914729
+Caught exception in calculate during loop of 300666:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:57:15.846731
+Caught exception in calculate during loop of 300986:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:57:16.812230
+Caught exception in calculate during loop of 002897:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:57:17.720497
+Caught exception in calculate during loop of 603208:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:57:18.622217
+Caught exception in calculate during loop of 688088:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:57:19.643832
+Caught exception in calculate during loop of 300129:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:57:20.619768
+Caught exception in calculate during loop of 002649:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:57:21.487329
+Caught exception in calculate during loop of 688261:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:57:22.458966
+Caught exception in calculate during loop of 002121:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:57:23.404998
+Caught exception in calculate during loop of 688183:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:57:24.449575
+Caught exception in calculate during loop of 002434:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:57:25.397931
+Caught exception in calculate during loop of 688073:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:57:26.318070
+Caught exception in calculate during loop of 002960:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:57:27.247122
+Caught exception in calculate during loop of 301177:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:57:28.193415
+Caught exception in calculate during loop of 300034:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:57:29.170005
+Caught exception in calculate during loop of 300634:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:57:30.139494
+Caught exception in calculate during loop of 688385:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:57:31.022181
+Caught exception in calculate during loop of 300631:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:57:31.919065
+Caught exception in calculate during loop of 688472:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:57:32.830186
+Caught exception in calculate during loop of 002780:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:57:33.808425
+Caught exception in calculate during loop of 600585:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:57:34.685180
+Caught exception in calculate during loop of 600197:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:57:35.594836
+Caught exception in calculate during loop of 605186:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:57:36.555158
+Caught exception in calculate during loop of 688569:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:57:37.413673
+Caught exception in calculate during loop of 688209:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:57:38.339802
+Caught exception in calculate during loop of 002223:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:57:39.226825
+Caught exception in calculate during loop of 605499:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:57:40.092214
+Caught exception in calculate during loop of 300442:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:57:40.991750
+Caught exception in calculate during loop of 300783:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:57:41.915146
+Caught exception in calculate during loop of 605020:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:57:42.821566
+Caught exception in calculate during loop of 600332:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:57:43.796299
+Caught exception in calculate during loop of 003006:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:57:44.773328
+Caught exception in calculate during loop of 688598:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:57:45.674867
+Caught exception in calculate during loop of 002688:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:57:46.537245
+Caught exception in calculate during loop of 600104:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:57:47.397831
+Caught exception in calculate during loop of 601166:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:57:47.399839
+Caught exception in calculate during loop of 870204:
+[Errno 2] No such file or directory: '../data/short_term_solvency_ratio/grpFiData/tbl870204quarterly_balance_sheet.csv'
+---------
+2023-08-18 19:57:48.358852
+Caught exception in calculate during loop of 603833:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:57:49.343389
+Caught exception in calculate during loop of 688297:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:57:50.261274
+Caught exception in calculate during loop of 688170:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:57:51.233441
+Caught exception in calculate during loop of 603773:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:57:52.199401
+Caught exception in calculate during loop of 688029:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:57:53.175264
+Caught exception in calculate during loop of 603737:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:57:54.098753
+Caught exception in calculate during loop of 002623:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:57:55.171381
+Caught exception in calculate during loop of 002536:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:57:56.134160
+Caught exception in calculate during loop of 600000:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:57:57.060986
+Caught exception in calculate during loop of 603939:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:57:58.032205
+Caught exception in calculate during loop of 002556:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:57:59.015830
+Caught exception in calculate during loop of 002567:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:57:59.925016
+Caught exception in calculate during loop of 603203:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:58:00.869916
+Caught exception in calculate during loop of 688016:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:58:01.760446
+Caught exception in calculate during loop of 603916:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:58:02.762494
+Caught exception in calculate during loop of 603728:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:58:03.740156
+Caught exception in calculate during loop of 300138:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:58:04.701462
+Caught exception in calculate during loop of 300450:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:58:05.655379
+Caught exception in calculate during loop of 600732:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:58:06.635308
+Caught exception in calculate during loop of 002859:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:58:07.700120
+Caught exception in calculate during loop of 002461:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:58:08.721478
+Caught exception in calculate during loop of 300274:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:58:09.820384
+Caught exception in calculate during loop of 600876:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:58:10.851885
+Caught exception in calculate during loop of 002559:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:58:11.786939
+Caught exception in calculate during loop of 300827:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:58:12.682764
+Caught exception in calculate during loop of 688789:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:58:13.654676
+Caught exception in calculate during loop of 300740:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:58:14.602103
+Caught exception in calculate during loop of 301101:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:58:15.556208
+Caught exception in calculate during loop of 002920:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:58:16.520668
+Caught exception in calculate during loop of 603499:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:58:17.498349
+Caught exception in calculate during loop of 601886:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:58:18.436027
+Caught exception in calculate during loop of 688059:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:58:19.402801
+Caught exception in calculate during loop of 002749:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:58:20.359748
+Caught exception in calculate during loop of 002020:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:58:21.343795
+Caught exception in calculate during loop of 300181:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:58:24.085189
+Caught exception in calculate during loop of 603613:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:58:25.193980
+Caught exception in calculate during loop of 688078:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:58:26.151578
+Caught exception in calculate during loop of 300130:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:58:27.145565
+Caught exception in calculate during loop of 300896:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:58:28.073992
+Caught exception in calculate during loop of 301227:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:58:29.020719
+Caught exception in calculate during loop of 688100:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:58:29.022608
+Caught exception in calculate during loop of 870726:
+[Errno 2] No such file or directory: '../data/short_term_solvency_ratio/grpFiData/tbl870726quarterly_balance_sheet.csv'
+---------
+2023-08-18 19:58:29.937078
+Caught exception in calculate during loop of 688308:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:58:30.899430
+Caught exception in calculate during loop of 002558:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:58:31.881040
+Caught exception in calculate during loop of 000831:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:58:32.733034
+Caught exception in calculate during loop of 301498:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:58:33.647703
+Caught exception in calculate during loop of 603187:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:58:34.515315
+Caught exception in calculate during loop of 688608:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:58:35.492041
+Caught exception in calculate during loop of 002873:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:58:36.366257
+Caught exception in calculate during loop of 300926:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:58:37.299321
+Caught exception in calculate during loop of 000560:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:58:38.293343
+Caught exception in calculate during loop of 000768:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:58:39.256674
+Caught exception in calculate during loop of 300302:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:58:40.151225
+Caught exception in calculate during loop of 688516:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:58:41.197933
+Caught exception in calculate during loop of 002615:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:58:43.171444
+Caught exception in calculate during loop of 603778:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:58:44.159043
+Caught exception in calculate during loop of 301193:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:58:45.031917
+Caught exception in calculate during loop of 000963:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:58:45.967341
+Caught exception in calculate during loop of 300182:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:58:46.932959
+Caught exception in calculate during loop of 603825:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:58:47.776360
+Caught exception in calculate during loop of 601012:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:58:48.631202
+Caught exception in calculate during loop of 603606:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:58:49.550314
+Caught exception in calculate during loop of 300881:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:58:50.475276
+Caught exception in calculate during loop of 688314:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:58:51.374890
+Caught exception in calculate during loop of 300119:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:58:52.368001
+Caught exception in calculate during loop of 002738:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:58:53.340946
+Caught exception in calculate during loop of 601898:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:58:54.126518
+Caught exception in calculate during loop of 301257:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:58:55.097300
+Caught exception in calculate during loop of 002142:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:58:56.095983
+Caught exception in calculate during loop of 301096:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:58:56.100036
+Caught exception in calculate during loop of 603270:
+index 1 is out of bounds for axis 0 with size 1
+---------
+2023-08-18 19:58:56.980605
+Caught exception in calculate during loop of 600861:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:58:57.967227
+Caught exception in calculate during loop of 301310:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:58:58.871403
+Caught exception in calculate during loop of 300218:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:58:59.833538
+Caught exception in calculate during loop of 000567:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:59:00.655106
+Caught exception in calculate during loop of 601577:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:59:01.673400
+Caught exception in calculate during loop of 603806:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:59:02.524765
+Caught exception in calculate during loop of 603719:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:59:03.449056
+Caught exception in calculate during loop of 301221:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:59:04.339258
+Caught exception in calculate during loop of 688707:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:59:05.270029
+Caught exception in calculate during loop of 688661:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:59:06.142662
+Caught exception in calculate during loop of 600315:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:59:07.049011
+Caught exception in calculate during loop of 688570:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:59:08.200068
+Caught exception in calculate during loop of 603212:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:59:08.201047
+Caught exception in calculate during loop of 835207:
+[Errno 2] No such file or directory: '../data/short_term_solvency_ratio/grpFiData/tbl835207quarterly_balance_sheet.csv'
+---------
+2023-08-18 19:59:09.112961
+Caught exception in calculate during loop of 000733:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:59:10.053638
+Caught exception in calculate during loop of 300724:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:59:11.032791
+Caught exception in calculate during loop of 300792:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:59:12.363256
+Caught exception in calculate during loop of 603170:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:59:13.820981
+Caught exception in calculate during loop of 002886:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:59:14.870460
+Caught exception in calculate during loop of 300627:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:59:15.805743
+Caught exception in calculate during loop of 603601:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:59:16.741673
+Caught exception in calculate during loop of 600023:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:59:17.660117
+Caught exception in calculate during loop of 600312:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:59:18.613123
+Caught exception in calculate during loop of 603259:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:59:19.599043
+Caught exception in calculate during loop of 301353:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:59:20.630174
+Caught exception in calculate during loop of 002948:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:59:21.791265
+Caught exception in calculate during loop of 000625:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:59:22.774663
+Caught exception in calculate during loop of 000902:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:59:23.638009
+Caught exception in calculate during loop of 603712:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:59:24.535816
+Caught exception in calculate during loop of 600392:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:59:25.481701
+Caught exception in calculate during loop of 603517:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 19:59:26.437697
+Caught exception in calculate during loop of 301367:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 20:25:01.923321
+Caught exception in calculate during loop of 000739:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 20:25:02.959973
+Caught exception in calculate during loop of 300740:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 20:25:03.879349
+Caught exception in calculate during loop of 600200:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 20:25:04.740963
+Caught exception in calculate during loop of 002080:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 20:25:05.791191
+Caught exception in calculate during loop of 600063:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 20:28:15.202824
+Caught exception in calculate during loop of 600977:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 20:28:15.208819
+Caught exception in calculate during loop of 601319:
+'2022-12-31 00:00:00'
+---------
+2023-08-18 20:28:16.179966
+Caught exception in calculate during loop of 000989:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 20:28:17.158986
+Caught exception in calculate during loop of 002991:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 20:28:18.059663
+Caught exception in calculate during loop of 300624:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 20:28:19.018553
+Caught exception in calculate during loop of 000733:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 20:28:19.857243
+Caught exception in calculate during loop of 603918:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 20:28:21.023239
+Caught exception in calculate during loop of 600801:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 20:32:35.940432
+Caught exception in calculate during loop of 301525:
+index 1 is out of bounds for axis 0 with size 1
+---------
+2023-08-18 20:33:39.830969
+Caught exception in calculate during loop of 870726:
+[Errno 2] No such file or directory: '../data/short_term_solvency_ratio/grpFiData/tbl870726quarterly_balance_sheet.csv'
+---------
+2023-08-18 20:34:58.628350
+Caught exception in calculate during loop of 836270:
+[Errno 2] No such file or directory: '../data/short_term_solvency_ratio/grpFiData/tbl836270quarterly_balance_sheet.csv'
+---------
+2023-08-18 20:35:12.004219
+Caught exception in calculate during loop of 688185:
+'2022-12-31 00:00:00'
+---------
+2023-08-18 20:35:44.261456
+Caught exception in calculate during loop of 688981:
+index 0 is out of bounds for axis 0 with size 0
+---------
+2023-08-18 20:36:37.001159
+Caught exception in calculate during loop of 835368:
+[Errno 2] No such file or directory: '../data/short_term_solvency_ratio/grpFiData/tbl835368quarterly_balance_sheet.csv'
+---------
+2023-08-18 20:37:50.224169
+Caught exception in calculate during loop of 603270:
+index 1 is out of bounds for axis 0 with size 1
+---------
+2023-08-18 20:39:13.383679
+Caught exception in calculate during loop of 835985:
+[Errno 2] No such file or directory: '../data/short_term_solvency_ratio/grpFiData/tbl835985quarterly_balance_sheet.csv'
+---------
+2023-08-18 20:40:17.383989
+Caught exception in calculate during loop of 601868:
+'2022-12-31 00:00:00'
+---------
+2023-08-18 20:40:26.305817
+Caught exception in calculate during loop of 430685:
+[Errno 2] No such file or directory: '../data/short_term_solvency_ratio/grpFiData/tbl430685quarterly_balance_sheet.csv'
+---------
+2023-08-18 20:41:02.363089
+Caught exception in calculate during loop of 301528:
+index 1 is out of bounds for axis 0 with size 1
+---------
+2023-08-18 20:41:11.552085
+Caught exception in calculate during loop of 835179:
+[Errno 2] No such file or directory: '../data/short_term_solvency_ratio/grpFiData/tbl835179quarterly_balance_sheet.csv'
+---------
+2023-08-18 20:41:32.912225
+Caught exception in calculate during loop of 837748:
+[Errno 2] No such file or directory: '../data/short_term_solvency_ratio/grpFiData/tbl837748quarterly_balance_sheet.csv'
+---------
+2023-08-18 20:42:21.733684
+Caught exception in calculate during loop of 871694:
+[Errno 2] No such file or directory: '../data/short_term_solvency_ratio/grpFiData/tbl871694quarterly_balance_sheet.csv'
+---------
+2023-08-18 20:43:04.013454
+Caught exception in calculate during loop of 601857:
+index 0 is out of bounds for axis 0 with size 0
+---------
+2023-08-18 20:43:14.688020
+Caught exception in calculate during loop of 688475:
+single positional indexer is out-of-bounds
+---------
+2023-08-18 20:43:59.382744
+Caught exception in calculate during loop of 830779:
+[Errno 2] No such file or directory: '../data/short_term_solvency_ratio/grpFiData/tbl830779quarterly_balance_sheet.csv'
+---------
+2023-08-18 20:44:10.333980
+Caught exception in calculate during loop of 301507:
+index 1 is out of bounds for axis 0 with size 1
+---------
+2023-08-18 20:44:21.494244
+Caught exception in calculate during loop of 836504:
+[Errno 2] No such file or directory: '../data/short_term_solvency_ratio/grpFiData/tbl836504quarterly_balance_sheet.csv'
+---------
+2023-08-18 20:45:27.937787
+Caught exception in calculate during loop of 836414:
+[Errno 2] No such file or directory: '../data/short_term_solvency_ratio/grpFiData/tbl836414quarterly_balance_sheet.csv'
+---------
+2023-08-18 20:45:31.621534
+Caught exception in calculate during loop of 603275:
+index 1 is out of bounds for axis 0 with size 1
+---------
+2023-08-18 20:45:38.018004
+Caught exception in calculate during loop of 601628:
+'2023-03-31 00:00:00'
+---------
+2023-08-18 20:46:04.086903
+Caught exception in calculate during loop of 688591:
+index 1 is out of bounds for axis 0 with size 1
+---------
+2023-08-18 20:46:07.099197
+Caught exception in calculate during loop of 834058:
+[Errno 2] No such file or directory: '../data/short_term_solvency_ratio/grpFiData/tbl834058quarterly_balance_sheet.csv'
+---------
+2023-08-18 20:46:22.035762
+Caught exception in calculate during loop of 871634:
+[Errno 2] No such file or directory: '../data/short_term_solvency_ratio/grpFiData/tbl871634quarterly_balance_sheet.csv'
+---------
+2023-08-18 20:47:43.121820
+Caught exception in calculate during loop of 831768:
+[Errno 2] No such file or directory: '../data/short_term_solvency_ratio/grpFiData/tbl831768quarterly_balance_sheet.csv'
+---------
+2023-08-18 20:47:54.111158
+Caught exception in calculate during loop of 832982:
+[Errno 2] No such file or directory: '../data/short_term_solvency_ratio/grpFiData/tbl832982quarterly_balance_sheet.csv'
+---------
+2023-08-18 20:48:25.480251
+Caught exception in calculate during loop of 873593:
+[Errno 2] No such file or directory: '../data/short_term_solvency_ratio/grpFiData/tbl873593quarterly_balance_sheet.csv'
+---------
+2023-08-18 20:48:39.841233
+Caught exception in calculate during loop of 601728:
+'2022-12-31 00:00:00'
+---------
+2023-08-18 20:49:14.453836
+Caught exception in calculate during loop of 872953:
+[Errno 2] No such file or directory: '../data/short_term_solvency_ratio/grpFiData/tbl872953quarterly_balance_sheet.csv'
+---------
+2023-08-18 20:49:16.335165
+Caught exception in calculate during loop of 688347:
+index 0 is out of bounds for axis 0 with size 0
+---------
+2023-08-18 20:49:27.579002
+Caught exception in calculate during loop of 601828:
+'2022-12-31 00:00:00'
+---------
+2023-08-18 20:50:51.136619
+Caught exception in calculate during loop of 839371:
+[Errno 2] No such file or directory: '../data/short_term_solvency_ratio/grpFiData/tbl839371quarterly_balance_sheet.csv'
+---------
+2023-08-18 20:51:27.260316
+Caught exception in calculate during loop of 600956:
+'2022-12-31 00:00:00'
+---------
+2023-08-18 20:54:06.995802
+Caught exception in calculate during loop of 601865:
+'2022-12-31 00:00:00'
+---------
+2023-08-18 20:54:44.365488
+Caught exception in calculate during loop of 834950:
+[Errno 2] No such file or directory: '../data/short_term_solvency_ratio/grpFiData/tbl834950quarterly_balance_sheet.csv'
+---------
+2023-08-18 20:54:50.239111
+Caught exception in calculate during loop of 833394:
+[Errno 2] No such file or directory: '../data/short_term_solvency_ratio/grpFiData/tbl833394quarterly_balance_sheet.csv'
+---------
+2023-08-18 20:55:11.957134
+Caught exception in calculate during loop of 871642:
+[Errno 2] No such file or directory: '../data/short_term_solvency_ratio/grpFiData/tbl871642quarterly_balance_sheet.csv'
+---------
+2023-08-18 20:55:29.847213
+Caught exception in calculate during loop of 870204:
+[Errno 2] No such file or directory: '../data/short_term_solvency_ratio/grpFiData/tbl870204quarterly_balance_sheet.csv'
+---------
+2023-08-18 20:56:16.625782
+Caught exception in calculate during loop of 835207:
+[Errno 2] No such file or directory: '../data/short_term_solvency_ratio/grpFiData/tbl835207quarterly_balance_sheet.csv'
+---------
+2023-08-18 20:56:26.582307
+Caught exception in calculate during loop of 430476:
+[Errno 2] No such file or directory: '../data/short_term_solvency_ratio/grpFiData/tbl430476quarterly_balance_sheet.csv'
+---------
+2023-08-18 20:56:40.928383
+Caught exception in calculate during loop of 601319:
+'2022-12-31 00:00:00'

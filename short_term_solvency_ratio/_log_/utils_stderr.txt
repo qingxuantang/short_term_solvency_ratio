@@ -1,0 +1,2 @@
+Failed to get ticker '688475.SS' reason: HTTPSConnectionPool(host='query2.finance.yahoo.com', port=443): Read timed out. (read timeout=10)
+688475.SS: No timezone found, symbol may be delisted
