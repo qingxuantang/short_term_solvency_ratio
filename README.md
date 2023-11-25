@@ -1,3 +1,8 @@
+<bold>Please note:
+
+This Repo is no longer under maintenance since the relevant module has been integrated into the <a href='https://github.com/qingxuantang/Chinese_stock_picker'>Chinese_Stock_Picker</a> repo.</bold>
+
+
 # short_term_solvency_ratio
 This is a Python script calculating the short-term solvency ratio(debt ratio) based on fundamental data.
 
